@@ -29,6 +29,11 @@ It operates on predefined rules, minimizing dependency on individual discretion 
 Development initiated during 2025 and first publicly released in March 2026.
 
 ---
+## Documentation
+
+* [SARGEN™ Glossary v1.0]
+
+Official terminology reference for concepts, principles, and governance definitions used within the SARGEN™ framework.
 
 **Powered by SARGEN™**
 
