@@ -31,7 +31,7 @@ Development initiated during 2025 and first publicly released in March 2026.
 ---
 ## Documentation
 
-* [SARGEN™ Glossary v1.0]
+* [SARGEN™ Glossary v1.0](glossary.md)
 
 Official terminology reference for concepts, principles, and governance definitions used within the SARGEN™ framework.
 
