@@ -1,5 +1,6 @@
 # SARGEN
 Stewardship • Governance • Continuity • Evolution
+
 ## Official Whitepaper
 
 The official SARGEN™ Whitepaper v1.0 is available here:
