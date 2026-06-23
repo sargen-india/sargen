@@ -1,40 +1,108 @@
-# SARGEN™
+SARGEN
 
-**System-Anchored, Rule-Led Governance & Evolving Network**
+Stewardship • Governance • Continuity • Evolution
 
----
+SARGEN is an institutional framework designed to preserve continuity, stewardship, governance, and evolution across time.
 
-## Definition
+It exists to ensure that ideas, responsibilities, records, and principles can endure beyond any single individual while remaining capable of responsible adaptation.
 
-SARGEN™ is a rule-led governance and automation framework designed to structure systems with clarity, accountability, and long-term continuity.
+Purpose
 
-It operates on predefined rules, minimizing dependency on individual discretion while enabling consistent, scalable, and controlled execution.
+SARGEN provides a structured framework for:
 
----
+Stewardship
 
-## Core Principle
+Constitutional governance
 
-**Systems should not depend on individuals; individuals should operate within governed systems.**
+Succession planning
 
----
+Institutional continuity
 
-## Philosophy
+Evolution through amendment
 
-**Creation Must Evolve**
+Preservation of historical records
 
----
+The framework is intended to support long-term continuity while maintaining legitimacy and accountability.
 
-## Historical Note
+Core Principles
 
-Development initiated during 2025 and first publicly released in March 2026.
+Continuity over disruption
 
----
-## Documentation
+Stewardship over ownership
 
-* [SARGEN™ Glossary v1.0](glossary.md)
+Evolution over stagnation
 
-Official terminology reference for concepts, principles, and governance definitions used within the SARGEN™ framework.
+Record preservation over institutional forgetting
 
-**Powered by SARGEN™**
+Constitutional authority over arbitrary change
 
-*A Rule-Led Governance & Automation Framework*
+Repository Structure
+
+framework/
+├── operations.md
+└── evolution-framework.md
+
+constitution/
+├── authority.md
+├── stewardship.md
+├── succession.md
+└── amendments.md
+
+records/
+├── founding-declaration.md
+├── milestones.md
+├── stewardship-register.md
+└── amendment-register.md
+
+
+Governance Framework
+
+The governance framework establishes how SARGEN operates, evolves, and maintains continuity.
+
+Key governance documents include:
+
+Operations Framework
+
+Evolution Framework
+
+Constitutional Authority
+
+Stewardship Framework
+
+Succession Framework
+
+Amendment Framework
+
+Historical Records
+
+SARGEN maintains permanent records for:
+
+Founding declarations
+
+Institutional milestones
+
+Stewardship transitions
+
+Constitutional amendments
+
+Historical preservation is considered an essential component of continuity.
+
+Constitutional Status
+
+The authority of SARGEN is derived from its Constitution and the amendments adopted under constitutional procedures.
+
+All governance structures operate under constitutional authority.
+
+Long-Term Vision
+
+SARGEN is intended to function as an enduring framework capable of surviving changes in leadership, circumstances, and generations while preserving its foundational principles.
+
+Its purpose is continuity with responsible evolution.
+
+Status
+
+Current Status: Active
+
+Version: Foundational Framework (V1)
+
+Document Type: Repository Overview
