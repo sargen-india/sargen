@@ -99,3 +99,33 @@ Institutional memory is a component of continuity.
 **Document Type:** Historical Record
 
 **Authority:** SARGEN Constitution
+
+---
+
+## Milestone: Second Public Thought Leadership Article Published
+
+**Date:** 25 June 2026
+
+**Platform:** Medium
+
+**Title:** Why Documentation Is More Valuable Than Memory
+
+**Author:** Sargen
+
+**Reference:**
+
+https://medium.com/@sargen.india/why-documentation-is-more-valuable-than-memory-e64a75610671
+
+**Significance:**
+
+This publication represents the second public thought leadership article associated with SARGEN™.
+
+The article explores the relationship between memory, documentation, continuity, accountability, and long-term knowledge preservation.
+
+It reinforces the principle that sustainable systems should preserve critical knowledge through documented structures rather than reliance upon individual memory alone.
+
+Together with the first public article, this publication expands the public body of work associated with governance, continuity, stewardship, and responsible evolution.
+
+The milestone contributes to the growing public record supporting the long-term discoverability and preservation of the framework's foundational concepts.
+
+**Status:** Historical Record
