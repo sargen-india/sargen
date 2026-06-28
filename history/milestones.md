@@ -78,4 +78,33 @@ The milestone contributes to the public historical record supporting the discove
 
 **Status:** Historical Record
 
+## Milestone #4
+
+### Title
+
+Fourth Public Thought Leadership Article Published
+
+### Date
+
+28 June 2026
+
+### Platform
+
+Medium
+
+### Article Title
+
+Why Governance Exists to Preserve Continuity
+
+### Link
+
+https://medium.com/@sargen.india/why-governance-exists-to-preserve-continuity-8454d5e6bfda
+
+### Significance
+
+Fourth external public publication exploring the relationship between governance and continuity.
+
+The article explains that governance exists not merely to create rules or control processes, but to preserve understanding, accountability, and resilience as people, teams, and technology change.
+
+The publication further strengthens the public body of work associated with SARGEN™ and advances the framework's thought leadership on governance, continuity, and responsible evolution.
 
