@@ -75,6 +75,39 @@ It reinforces the principle that well-designed governance structures support sus
 Together with the previously published articles, this publication expands the growing public body of work associated with governance, documentation, continuity, stewardship, and long-term system design.
 
 The milestone contributes to the public historical record supporting the discoverability and preservation of the foundational ideas associated with SARGEN™.
+---
+
+## Milestone #4
+
+### Title
+
+Fourth Public Thought Leadership Article Published
+
+### Date
+
+28 June 2026
+
+### Platform
+
+Medium
+
+### Article Title
+
+Why Governance Exists to Preserve Continuity
+
+### Link
+
+https://medium.com/@sargen.india/why-governance-exists-to-preserve-continuity-8454d5e6bfda
+
+### Significance
+
+Fourth external public publication exploring the relationship between governance and continuity.
+
+The article explains that governance exists not merely to create rules or control processes, but to preserve understanding, accountability, and resilience as people, teams, and technology change.
+
+The publication further strengthens the public body of work associated with SARGEN™ and advances the framework's thought leadership on governance, continuity, and responsible evolution.
+
+----
 ## Milestone #5
 
 ### Title
@@ -118,34 +151,3 @@ The publication strengthens the philosophical foundation of SARGEN™ by positio
 **Creation Must Evolve.**
 
 **Status:** Historical Record
-
-## Milestone #4
-
-### Title
-
-Fourth Public Thought Leadership Article Published
-
-### Date
-
-28 June 2026
-
-### Platform
-
-Medium
-
-### Article Title
-
-Why Governance Exists to Preserve Continuity
-
-### Link
-
-https://medium.com/@sargen.india/why-governance-exists-to-preserve-continuity-8454d5e6bfda
-
-### Significance
-
-Fourth external public publication exploring the relationship between governance and continuity.
-
-The article explains that governance exists not merely to create rules or control processes, but to preserve understanding, accountability, and resilience as people, teams, and technology change.
-
-The publication further strengthens the public body of work associated with SARGEN™ and advances the framework's thought leadership on governance, continuity, and responsible evolution.
-
