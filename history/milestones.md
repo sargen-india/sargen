@@ -75,6 +75,47 @@ It reinforces the principle that well-designed governance structures support sus
 Together with the previously published articles, this publication expands the growing public body of work associated with governance, documentation, continuity, stewardship, and long-term system design.
 
 The milestone contributes to the public historical record supporting the discoverability and preservation of the foundational ideas associated with SARGEN™.
+## Milestone #5
+
+### Title
+
+Fifth Public Thought Leadership Article Published
+
+### Date
+
+06 July 2026
+
+### Platform
+
+Medium
+
+### Article Title
+
+Why Systems Need Stewardship
+
+### Link
+
+https://medium.com/@sargen.india/why-systems-need-stewardship-7b9b1d97986d
+
+### Significance
+
+Fifth external public publication expanding the developing body of ideas associated with SARGEN™.
+
+The article introduces stewardship as a long-term responsibility for preserving continuity, protecting institutional integrity, maintaining knowledge, and enabling responsible evolution.
+
+It distinguishes stewardship from ownership and management by emphasizing responsibility across time rather than control or possession.
+
+The publication further advances the public discussion around governance, continuity, documentation, and the preservation of systems beyond individual participants.
+
+### Extended Description
+
+This milestone marks the beginning of the stewardship phase within the SARGEN™ public thought leadership series.
+
+The article argues that systems do not endure solely because they are well designed. They endure because people accept responsibility for preserving their purpose, knowledge, and continuity across generations of participants.
+
+The publication strengthens the philosophical foundation of SARGEN™ by positioning stewardship as an essential condition for long-term resilience and responsible evolution.
+
+**Creation Must Evolve.**
 
 **Status:** Historical Record
 
