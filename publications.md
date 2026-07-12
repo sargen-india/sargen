@@ -1,0 +1,57 @@
+# SARGEN™ Publication Register
+
+Version: 1.0
+
+Status: Living Record
+
+---
+
+## Purpose
+
+This register serves as the canonical publication record of SARGEN™.
+
+It maintains a chronological index of official public publications, regardless of the platform through which they are released.
+
+Publications may include articles, essays, whitepapers, framework documents, constitutional documents, research papers, books, or future publication formats.
+
+Each publication receives a permanent Publication ID (PID) that remains unchanged throughout its lifecycle.
+
+Detailed historical context for individual publications is maintained separately within `history/milestones.md`.
+
+---
+
+## Official Publication Register
+
+| PID      | Date        | Title                                            | Type    | Platform(s) | Version | Status    |
+| -------- | ----------- | ------------------------------------------------ | ------- | ----------- | ------- | --------- |
+| PUB-0001 | 24 Jun 2026 | Why Systems Fail When They Depend on Individuals | Article | Medium      | v1.0    | Published |
+| PUB-0002 | 24 Jun 2026 | Why Documentation Is More Valuable Than Memory   | Article | Medium      | v1.0    | Published |
+| PUB-0003 | 26 Jun 2026 | Why Governance Is Not Bureaucracy                | Article | Medium      | v1.0    | Published |
+| PUB-0004 | 28 Jun 2026 | Why Governance Exists to Preserve Continuity     | Article | Medium      | v1.0    | Published |
+| PUB-0005 | 06 Jul 2026 | Why Systems Need Stewardship                     | Article | Medium      | v1.0    | Published |
+| PUB-0006 | 09 Jul 2026 | Why Rules Create Freedom                         | Article | Medium      | v1.0    | Published |
+| PUB-0007 | 12 Jul 2026 | Why Stewardship Is Different From Ownership      | Article | Medium      | v1.0    | Published |
+
+---
+
+## Publication Principles
+
+Every official public publication becomes part of the documented body of ideas that defines the evolving philosophy of SARGEN™.
+
+Publication IDs are permanent and platform-independent.
+
+A publication may appear on one or multiple public platforms while retaining the same Publication ID.
+
+New publication formats and distribution platforms may be added over time without altering the integrity of this register.
+
+This register exists to preserve continuity, traceability, and the long-term public record of SARGEN™.
+
+Publication versions document the responsible evolution of ideas while preserving their historical continuity.
+
+---
+
+**SARGEN™**
+
+*System-Anchored, Rule-Led Governance & Evolving Network*
+
+**Creation Must Evolve.**
