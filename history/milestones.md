@@ -221,3 +221,47 @@ By distinguishing stewardship from ownership, the article further develops the p
 
 **Status:** Historical Record
 ---
+
+## Milestone #8
+
+### Title
+
+Eighth Public Thought Leadership Article Published
+
+### Date
+
+17 July 2026
+
+### Platform
+
+Medium
+
+### Article Title
+
+**Why Every Enduring System Has a Constitution**
+
+### Link
+
+https://medium.com/@sargen.india/why-every-enduring-system-has-a-constitution-33656d9b264d
+
+### Significance
+
+Eighth external public publication expanding the developing body of ideas associated with SARGEN™.
+
+The article introduces constitutional thinking as a foundational principle of enduring systems, arguing that systems require more than operational rules—they require enduring principles that preserve identity, purpose, and continuity through change.
+
+It establishes the constitution as the stable foundation that enables responsible evolution without compromising the core principles upon which a system is built.
+
+### Extended Description
+
+This milestone continues the SARGEN™ philosophy series by examining the role of constitutions beyond their traditional association with nations.
+
+The publication argues that every enduring system rests upon foundational principles that guide decision-making, preserve continuity, and provide consistency across leadership transitions, operational changes, and evolving circumstances.
+
+By distinguishing constitutions from policies and procedures, the article further strengthens the philosophical foundations of SARGEN™ as a framework centered on governance, continuity, stewardship, constitutional thinking, and responsible evolution.
+
+**Creation Must Evolve.**
+
+**Status:** Historical Record
+
+---
