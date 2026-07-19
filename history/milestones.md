@@ -265,3 +265,47 @@ By distinguishing constitutions from policies and procedures, the article furthe
 **Status:** Historical Record
 
 ---
+
+## Milestone #9
+
+### Title
+
+Ninth Public Thought Leadership Article Published
+
+### Date
+
+19 July 2026
+
+### Platform
+
+Medium
+
+### Article Title
+
+**Why Automation Needs Governance**
+
+### Link
+
+https://medium.com/@sargen.india/why-automation-needs-governance-64bfc76bcd6d
+
+### Significance
+
+Ninth external public publication expanding the developing body of ideas associated with SARGEN™.
+
+The article establishes that automation alone cannot create reliable or enduring systems. It argues that automation requires governance to ensure decisions remain consistent, accountable, transparent, and aligned with the principles of the system it serves.
+
+It extends the SARGEN™ philosophy by demonstrating that technology can execute decisions at scale, but governance determines which decisions should be automated and how that automation remains responsible over time.
+
+### Extended Description
+
+This milestone continues the SARGEN™ philosophy series by examining the relationship between automation and governance.
+
+The publication argues that automation should not be viewed as a replacement for governance, but as an instrument that operates within it. As organizations increasingly automate decisions and processes, governance becomes even more important for preserving accountability, continuity, transparency, and responsible evolution.
+
+By positioning governance as the framework that gives automation purpose, direction, and boundaries, the article further strengthens the philosophical foundations of SARGEN™ as a framework centered on governance, continuity, stewardship, constitutional thinking, automation, and responsible evolution.
+
+**Creation Must Evolve.**
+
+**Status:** Historical Record
+
+---
