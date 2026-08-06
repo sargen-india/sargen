@@ -571,4 +571,3 @@ As the first intentional Gateway article in the evolving philosophy series, this
 
 
 
-
