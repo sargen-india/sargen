@@ -569,5 +569,28 @@ As the first intentional Gateway article in the evolving philosophy series, this
 
 ---
 
+## Milestone 16
+
+Date:
+10 Aug 2026
+
+Event:
+Publication of PUB-0016 on Medium.
+
+Title:
+Why Every Decision Leaves a Legacy
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-every-decision-leaves-a-legacy-530e84c0ed47
+
+Significance:
+This publication explores how decisions extend beyond the moment in which they are made, shaping future standards, precedents, institutional memory, and the conditions under which future decisions are made.
+
+Status:
+Published
+---
 
 
