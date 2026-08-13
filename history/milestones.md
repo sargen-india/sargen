@@ -593,4 +593,26 @@ Status:
 Published
 ---
 
+## Milestone 17
 
+Date:
+13 Aug 2026
+
+Event:
+Publication of PUB-0017 on Medium.
+
+Title:
+Why Smart Organizations Document Everything
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-smart-organizations-document-everything-118cc5bda288
+
+Significance:
+This publication explores why important organizational knowledge should survive beyond the individuals who carry it, and how documentation transforms experience into shared knowledge, institutional memory, and continuity.
+
+Status:
+Published
+---
