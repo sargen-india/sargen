@@ -616,3 +616,26 @@ This publication explores why important organizational knowledge should survive 
 Status:
 Published
 ---
+## Milestone 18
+
+Date:
+17 Aug 2026
+
+Event:
+Publication of PUB-0018 on Medium.
+
+Title:
+Why Systems Drift Without Principles
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-systems-drift-without-principles-6211cc872118
+
+Significance:
+This publication explores how systems can gradually lose coherence when decisions are made without shared principles, and why principles provide a common foundation for judgment, consistency, and responsible evolution.
+
+Status:
+Published
+---
