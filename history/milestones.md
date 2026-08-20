@@ -639,3 +639,26 @@ This publication explores how systems can gradually lose coherence when decision
 Status:
 Published
 ---
+Milestone 19
+
+Date:
+20 Aug 2026
+
+Event:
+Publication of PUB-0019 on Medium.
+
+Title:
+Why Good Leaders Design Systems
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-good-leaders-design-systems-7a97b05d4280
+
+Significance:
+This publication explores how leadership extends beyond making decisions and solving immediate problems. It examines how good leaders design systems that turn principles into practical structures, reduce unnecessary dependence on individuals, distribute responsibility, and create organizational capability that can continue beyond the leader's personal presence.
+
+Status:
+Published
+---
