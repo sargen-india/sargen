@@ -662,3 +662,35 @@ This publication explores how leadership extends beyond making decisions and sol
 Status:
 Published
 ---
+## Milestone 20
+
+Date:
+23 Aug 2026
+
+Event:
+Publication of PUB-0020 on Medium.
+
+Title:
+Why Every System Creates Its Own Culture
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-every-system-creates-its-own-culture-27214b419643
+
+Significance:
+This publication explores how organizational culture develops through repeated experiences and behaviours created by the systems in which people work. It examines how systems reinforce responsibility, decision-making, collaboration, learning, and other patterns of behaviour, showing that culture is shaped not only by stated values but by what organizations repeatedly make possible, reward, discourage, and require.
+
+The article extends the conceptual progression of the SARGEN™ Philosophy Series:
+
+Documentation → Memory
+Principles → Coherence
+System Design → Capability
+Culture → Behaviour
+
+It establishes the connection between system design and organizational culture, showing how repeated behaviour can become organizational expectation and eventually culture.
+
+Status:
+Published
+---
