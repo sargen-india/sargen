@@ -740,3 +740,26 @@ This publication explores why effective leadership must extend beyond the indivi
 Status:
 Published
 ---
+## Milestone 23
+
+Date:
+30 Aug 2026
+
+Event:
+Publication of PUB-0023 on Medium.
+
+Title:
+Why Organizational Culture Is Designed, Not Declared
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-organizational-culture-is-designed-not-declared-7a25b43e37a0
+
+Significance:
+This publication explores how organizational culture is shaped not only by stated values, but by the systems, decisions, incentives, and unwritten rules that repeatedly influence how people act.
+
+Status:
+Published
+---
