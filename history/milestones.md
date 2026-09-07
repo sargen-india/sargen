@@ -743,7 +743,7 @@ Published
 ## Milestone 23
 
 Date:
-30 Aug 2026
+7 Sep 2026
 
 Event:
 Publication of PUB-0023 on Medium.
