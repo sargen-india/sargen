@@ -763,3 +763,27 @@ This publication explores how organizational culture is shaped not only by state
 Status:
 Published
 ---
+## Milestone 24
+
+Date:
+11 Sep 2026
+
+Event:
+Publication of PUB-0024 on Medium.
+
+Title:
+Why Every Organization Needs Institutional Learning
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-every-organization-needs-institutional-learning-619d30c97e15
+
+Significance:
+This publication explores why organizational experience does not automatically create organizational learning. It examines how experience becomes institutional learning when it changes future decisions, ways of working, and organizational capability, while preserving useful understanding beyond the people who experienced it.
+
+Status:
+Published
+---
+
