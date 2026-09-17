@@ -786,4 +786,26 @@ This publication explores why organizational experience does not automatically c
 Status:
 Published
 ---
+## Milestone 25
 
+Date:
+17 Sep 2026
+
+Event:
+Publication of PUB-0025 on Medium.
+
+Title:
+Why Complexity Is the Hidden Cost of Growth
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-complexity-is-the-hidden-cost-of-growth-9e6ee5edd4e6
+
+Significance:
+This publication examines how organizational growth creates increasing complexity through dependencies, decision points, and risk exposure. It establishes that as systems grow, governance must evolve to preserve clarity, accountability, coordination, and organizational coherence.
+
+Status:
+Published
+---
