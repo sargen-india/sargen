@@ -809,3 +809,23 @@ This publication examines how organizational growth creates increasing complexit
 Status:
 Published
 ---
+### PUB-0026 — Why More Rules Do Not Always Create Better Governance
+- Date: 23 Sep 2026
+- Phase: Phase-4 — Leadership & Organizations
+- Type: Development / Gateway-Extension
+- Status: Published
+- Platform: Medium
+- Version: v1.0
+
+Core progression:
+Growth → Complexity → Governance Pressure → Rules → Governance Capability
+
+Core principle:
+More Rules ≠ Better Governance
+
+Contribution:
+Established that rules are instruments of governance, but rules alone do not constitute governance. Effective governance also requires clarity, authority, accountability, decision boundaries, consistency, adaptability, and understanding of the system.
+
+Publication:
+https://medium.com/@sargen.india/why-more-rules-do-not-always-create-better-governance-6fc9e2f5cb77
+---
