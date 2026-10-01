@@ -829,3 +829,28 @@ Established that rules are instruments of governance, but rules alone do not con
 Publication:
 https://medium.com/@sargen.india/why-more-rules-do-not-always-create-better-governance-6fc9e2f5cb77
 ---
+Published PUB-0027, “Why Decision Boundaries Matter More Than More Approvals,” on Medium.
+
+The publication extends the governance progression established through Articles 25 and 26 by examining the relationship between approval, authority, decision boundaries, and accountability.
+
+The article establishes the distinction:
+
+More Approvals ≠ Better Decisions
+
+It argues that effective governance is not achieved simply by moving more decisions upward for approval. Governance requires clear decision boundaries that define who can decide, within what limits, when escalation is required, and who remains accountable for the outcome.
+
+The publication develops the progression:
+
+Growth → Complexity → Governance Pressure → Rules → Decision Boundaries → Responsible Authority → Accountability
+
+Article-27 serves as the closing conceptual article of Phase-4 — Leadership & Organizations and establishes the organizational governance foundation for the transition into Phase-5 — Technology & Future Systems.
+
+The next phase begins with the Gateway topic:
+
+Why AI Needs Governance
+
+Status: Published
+Version: v1.0
+Platform: Medium
+Publication Date: 01 Oct 2026
+---
