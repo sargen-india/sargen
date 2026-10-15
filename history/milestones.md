@@ -854,3 +854,28 @@ Version: v1.0
 Platform: Medium
 Publication Date: 01 Oct 2026
 ---
+## Milestone 28
+
+Date:
+15 Oct 2026
+
+Event:
+Publication of PUB-0028 on Medium.
+
+Title:
+Why AI Needs Governance
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-ai-needs-governance-172057425f54
+
+Significance:
+This publication opens Phase-5 — Technology & Future Systems by examining how governance must evolve when artificial intelligence becomes part of a decision system. It establishes the distinction between capability, authority, and accountability, and explains why AI governance must consider decision boundaries, human oversight, system-level controls, consequences, and adaptation over time.
+
+The publication extends the SARGEN™ governance progression from organizational decision-making toward the governance of increasingly capable technologies.
+
+Status:
+Published
+---
