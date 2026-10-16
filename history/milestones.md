@@ -879,3 +879,33 @@ The publication extends the SARGEN™ governance progression from organizational
 Status:
 Published
 ---
+
+
+## Milestone 29
+
+Date:
+16 Oct 2026
+
+Event:
+Publication of PUB-0029 on Medium.
+
+Title:
+Why Automation Cannot Replace Judgment
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-automation-cannot-replace-judgment-0d1c57989915
+
+Significance:
+This publication continues Phase-5 — Technology & Future Systems by examining the boundary between automation and human judgment. It establishes that automation can follow defined processes, but changing circumstances may require interpretation, contextual understanding, and responsible decision-making. Efficiency alone does not replace judgment.
+
+The publication reinforces the SARGEN™ governance perspective that automation should operate within clear decision boundaries, with responsible judgment retained where circumstances, consequences, or exceptions require it.
+
+Story Preview:
+Automation follows processes, but changing circumstances demand judgment. Efficiency cannot replace responsible decision-making.
+
+Status:
+Published
+---
