@@ -6,6 +6,15 @@
 
 This index provides a single entry point to the four separate workbook records maintained in this repository. It does not replace the official publication register, constitutional documents, approved frameworks, or other authoritative records already present in the repository.
 
+## Synchronization Status
+
+**Status: PARTIALLY SYNCHRONIZED — MIGRATION IN PROGRESS (16 Oct 2026).**
+
+- The Publications workbook currently contains publication-level contribution records through PUB-0029.
+- The Identity workbook has been updated with identity contribution records for PUB-0023 through PUB-0029 and the update was re-fetched for verification.
+- Methodology and Philosophy contribution entries for PUB-0023 through PUB-0029 have not yet been added or verified in this synchronization pass.
+- The four-workbook system is **not yet fully synchronized**. This status must not be changed to complete until all four workbooks have been reviewed, updated as required, and re-fetched for verification.
+
 ## Four Workbooks
 
 1. **Publications** — publication-level records and links, including each publication's contribution to the wider SARGEN™ body of work.  
