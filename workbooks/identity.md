@@ -43,7 +43,7 @@ The following entries preserve publication-specific identity contributions recor
 - **Distinctive identity claim or distinction:** Declared identity describes what an organization says. Lived culture reveals what the organization repeatedly sustains.
 - **Relationship to established SARGEN™ identity:** Connects organizational identity to recurring system-shaped practices, including how decisions are made, responsibility is exercised, knowledge moves, mistakes are handled, people are allowed to act, and behaviour is rewarded or tolerated.
 - **What this contribution does not claim:** It does not redefine culture or establish a new locked identity principle.
-- **Cross-links:** Publications — PUB-0023; Methodology — pending synchronization; Philosophy — pending synchronization.
+- **Cross-links:** [Publications](publications.md) — PUB-0023; [Methodology](methodology.md) — PUB-0023; [Philosophy](philosophy.md) — PUB-0023.
 - **Open questions or review notes:** Article-23 is independently confirmed in the Publications workbook. Preserve the distinction between the publication's official title and the identity contribution heading.
 
 ### PUB-0024 — Why Every Organization Needs Institutional Learning
@@ -57,7 +57,7 @@ The following entries preserve publication-specific identity contributions recor
 - **Connection to earlier work:** Article-22 concerns leaders building successors by transferring capability; Article-24 extends the continuity concern to organizations converting experience into institutional learning.
 - **Continuity and evolution:** Continuity does not mean preserving everything. Useful understanding should be retained while outdated practices, assumptions, and methods remain open to change.
 - **What this contribution does not claim:** This is an identity contribution, not a new locked principle or a replacement for the publication's formal definition of institutional learning.
-- **Cross-links:** Publications — PUB-0024; Methodology — pending synchronization; Philosophy — pending synchronization.
+- **Cross-links:** [Publications](publications.md) — PUB-0024; [Methodology](methodology.md) — PUB-0024; [Philosophy](philosophy.md) — PUB-0024.
 - **Open questions or review notes:** Article-24 is independently confirmed in the Publications workbook.
 
 ### PUB-0025 — Why Complexity Is the Hidden Cost of Growth
@@ -70,7 +70,7 @@ The following entries preserve publication-specific identity contributions recor
 - **Relationship to established SARGEN™ identity:** Growth changes not only organizational size, activity, or reach, but also the system's internal structure, relationships, dependencies, and decision demands.
 - **Identity progression:** Culture → Learning → Growth → Complexity → Evolving Governance.
 - **What this contribution does not claim:** Governance is not positioned as an obstacle to growth; this contribution does not create a separate locked principle.
-- **Cross-links:** Publications — PUB-0025; Methodology — pending synchronization; Philosophy — pending synchronization.
+- **Cross-links:** [Publications](publications.md) — PUB-0025; [Methodology](methodology.md) — PUB-0025; [Philosophy](philosophy.md) — PUB-0025.
 - **Open questions or review notes:** Article-25 is independently confirmed in the Publications workbook.
 
 ### PUB-0026 — Why More Rules Do Not Always Create Better Governance
@@ -83,7 +83,7 @@ The following entries preserve publication-specific identity contributions recor
 - **Relationship to established SARGEN™ identity:** Distinguishes control mechanisms from the governance system within which they operate. Responsible action as circumstances change requires more than accumulating rules.
 - **Identity progression:** Growth → Complexity → Governance Pressure → Governance System → Governance Capability.
 - **What this contribution does not claim:** It does not reject rules or controls; it distinguishes their role as instruments from the wider governance system.
-- **Cross-links:** Publications — PUB-0026; Methodology — pending synchronization; Philosophy — pending synchronization.
+- **Cross-links:** [Publications](publications.md) — PUB-0026; [Methodology](methodology.md) — PUB-0026; [Philosophy](philosophy.md) — PUB-0026.
 - **Open questions or review notes:** Article-26 and publication date 23 Sep 2026 are recorded in the existing publication records.
 
 ### PUB-0027 — Why Decision Boundaries Matter More Than More Approvals
@@ -96,7 +96,7 @@ The following entries preserve publication-specific identity contributions recor
 - **Relationship to established SARGEN™ identity:** Clarifies that hierarchy itself is not necessarily the problem; the governance question is whether authority is appropriately placed, clearly bounded, and connected to accountability.
 - **Identity progression:** Growth and complexity → governance capability → responsible authority and decision boundaries.
 - **What this contribution does not claim:** It does not equate fewer approvals automatically with better governance or reject hierarchy as such.
-- **Cross-links:** Publications — PUB-0027; Methodology — pending synchronization; Philosophy — pending synchronization.
+- **Cross-links:** [Publications](publications.md) — PUB-0027; [Methodology](methodology.md) — PUB-0027; [Philosophy](philosophy.md) — PUB-0027.
 - **Open questions or review notes:** Article-27 and publication date 01 Oct 2026 are recorded in the existing publication records. This contribution was described as completing the Phase-4 identity progression.
 
 ### PUB-0028 — Why AI Needs Governance
@@ -110,7 +110,7 @@ The following entries preserve publication-specific identity contributions recor
 - **Continuity from Phase-4:** Decision Boundaries → Responsible Authority → Accountability.
 - **Phase-5 extension:** Applies these concerns to technology that increasingly influences or performs consequential actions.
 - **What this contribution does not claim:** Governance is not synonymous with risk elimination or unrestricted human intervention.
-- **Cross-links:** Publications — PUB-0028; Methodology — pending synchronization; Philosophy — pending synchronization.
+- **Cross-links:** [Publications](publications.md) — PUB-0028; [Methodology](methodology.md) — PUB-0028; [Philosophy](philosophy.md) — PUB-0028.
 - **Open questions or review notes:** Article-28 and publication date 15 Oct 2026 are recorded in the existing publication records.
 
 ### PUB-0029 — Why Automation Cannot Replace Judgment
@@ -126,11 +126,11 @@ The following entries preserve publication-specific identity contributions recor
 - **Relationship to established SARGEN™ identity:** Strengthens SARGEN™'s association with governance of increasingly automated systems, where technological capability must operate within appropriate decision boundaries and responsibility must remain clear.
 - **Continuity from PUB-0028:** PUB-0028 establishes the broader governance relationship for increasingly capable technology systems; PUB-0029 examines the specific boundary between automated execution and responsible judgment.
 - **What this contribution does not claim:** Automation and human judgment are not framed as competing capabilities. Efficiency alone cannot replace responsible decision-making.
-- **Cross-links:** Publications — PUB-0029; Methodology — pending synchronization; Philosophy — pending synchronization.
+- **Cross-links:** [Publications](publications.md) — PUB-0029; [Methodology](methodology.md) — PUB-0029; [Philosophy](philosophy.md) — PUB-0029.
 - **Open questions or review notes:** Approved story preview: “Automation follows processes, but changing circumstances demand judgment. Efficiency cannot replace responsible decision-making.” Central distinction: **Automation ≠ Judgment**. Topic: Future System. Tag: Human Judgment. Do not infer or assign an article sequence number from PUB-0029; the publication ID and article sequence are distinct identifiers.
 
 ---
 
-**Synchronization note:** This Identity workbook was updated additively from the Identity WORK chat records. The four-workbook migration remains in progress until the Publications, Methodology, and Philosophy records are individually checked and synchronized.
+**Synchronization note:** Identity contribution entries for PUB-0023 through PUB-0029 are cross-linked to the corresponding Publications, Methodology, and Philosophy entries in the repository. This confirms repository-level cross-reference coverage; full historical completeness against all saved WORK-chat records remains unverified.
 
 **SARGEN™ — Creation Must Evolve.**
