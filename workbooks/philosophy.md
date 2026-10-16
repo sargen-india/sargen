@@ -138,7 +138,7 @@ These records preserve the philosophical contribution associated with each publi
 
 ---
 
-**Synchronization note:** Philosophical contribution records for PUB-0023 through PUB-0029 were added additively from the corresponding Philosophy WORK chat records. The publication metadata remains governed by the canonical Publication Register and Publications workbook. These entries are contribution records, not automatic declarations of new LOCKED principles. The four-workbook migration status must remain **PARTIALLY SYNCHRONIZED — MIGRATION IN PROGRESS** until each workbook has been reviewed, updated as required, and re-fetched for verification.
+**Synchronization note:** Philosophical contribution entries for PUB-0023 through PUB-0029 are cross-linked to the corresponding Publications, Identity, and Methodology entries in the repository. Publication metadata remains governed by the canonical Publication Register and Publications workbook. These are contribution records, not automatic declarations of new LOCKED principles. Repository-level cross-reference coverage has been checked; full historical completeness against all saved WORK-chat records remains unverified.
 
 **SARGEN™ — Creation Must Evolve.**
 
