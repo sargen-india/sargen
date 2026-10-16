@@ -10,10 +10,11 @@ This index provides a single entry point to the four separate workbook records m
 
 **Status: PARTIALLY SYNCHRONIZED — MIGRATION IN PROGRESS (16 Oct 2026).**
 
-- The Publications workbook currently contains publication-level contribution records through PUB-0029.
-- The Identity workbook has been updated with identity contribution records for PUB-0023 through PUB-0029 and the update was re-fetched for verification.
-- Methodology and Philosophy contribution entries for PUB-0023 through PUB-0029 have not yet been added or verified in this synchronization pass.
-- The four-workbook system is **not yet fully synchronized**. This status must not be changed to complete until all four workbooks have been reviewed, updated as required, and re-fetched for verification.
+- The Publications workbook contains publication-level contribution records through PUB-0029. The canonical Publication Register remains authoritative for official publication metadata.
+- The Identity workbook contains identity contribution records for PUB-0023 through PUB-0029; its update was re-fetched for verification in this synchronization work.
+- The Methodology workbook now contains methodology contribution records for PUB-0023 through PUB-0029. The updated file was re-fetched and checked for the PUB-0023 and PUB-0029 entries and the PUB-0029 methodological principle.
+- The Philosophy workbook has been inspected, but contribution entries for PUB-0023 through PUB-0029 have not yet been added or verified in this synchronization pass.
+- The four-workbook system is **not yet fully synchronized**. Do not mark the migration complete until all four workbooks have been reviewed, updated as required, and re-fetched for verification.
 
 ## Four Workbooks
 
@@ -44,7 +45,8 @@ When a publication is confirmed as published:
 3. Preserve existing approved content and historical entries. Make additive changes unless a revision is explicitly requested.
 4. Keep **LOCKED**, **CURRENT / WORKING**, and **DRAFT / PROPOSAL** states distinct. Do not promote a proposal to a locked decision without explicit approval.
 5. Do not infer an article sequence number from a Publication ID. They are different identifiers.
-6. Verify the changed files and provide the resulting GitHub commit link(s).
+6. Re-fetch changed files after writing, verify the intended additions and preserved content, and provide the resulting GitHub commit link(s).
+7. Keep the index status at **PARTIALLY SYNCHRONIZED — MIGRATION IN PROGRESS** until all four workbooks have been individually reviewed, updated as required, and verified. Update the status only on evidence from all four files.
 
 ## Record Integrity
 
