@@ -31,6 +31,10 @@ The Publication Register remains the source for official publication metadata. T
 
 ---
 
+## Cross-Workbook Reconciliation
+
+For PUB-0023 through PUB-0029, corresponding contribution entries are present in the Identity, Methodology, and Philosophy workbooks. Their links are recorded above. This confirms repository-level cross-reference coverage; it does not independently certify that every historical detail from the four separate WORK chats has been migrated.
+
 ## Record Rules
 
 - Do not assume the article sequence number from the Publication ID.
@@ -61,9 +65,9 @@ The entries below preserve publication-level context and contribution summaries.
 - **Publication contribution summary:** Examines organizational culture as an outcome of systems, decisions, incentives, unwritten rules, and repeated organizational experience.
 - **Core progression:** Systems → Decisions → Repeated experience → Behaviour → Culture
 - **Closing:** Systems shape behaviour. Repeated behaviour shapes culture. Creation Must Evolve.
-- **Related Identity entry:** To be synchronized in the Identity workbook.
-- **Related Methodology entry:** To be synchronized in the Methodology workbook.
-- **Related Philosophy entry:** To be synchronized in the Philosophy workbook.
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0023.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0023.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0023.
 - **Notes / unresolved details:** Publication ID and metadata verified against the canonical Publication Register; contribution details preserved from the approved publication record.
 
 ### PUB-0024 — Why Every Organization Needs Institutional Learning
@@ -82,9 +86,9 @@ The entries below preserve publication-level context and contribution summaries.
 - **Definition established in the publication:** Institutional learning is the ability of an organization to turn experience into better understanding, better decisions, and better ways of working—and to preserve that learning beyond the people who experienced it.
 - **Core progression:** Experience → Learning → System → Context → Continuity
 - **Closing principle:** An organization should not merely remember what happened. It should become different because of what happened. Creation Must Evolve.
-- **Related Identity entry:** To be synchronized in the Identity workbook.
-- **Related Methodology entry:** To be synchronized in the Methodology workbook.
-- **Related Philosophy entry:** To be synchronized in the Philosophy workbook.
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0024.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0024.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0024.
 - **Notes / unresolved details:** Publication ID and metadata verified against the canonical Publication Register; contribution details preserved from the approved publication record.
 
 ### PUB-0025 — Why Complexity Is the Hidden Cost of Growth
@@ -102,9 +106,9 @@ The entries below preserve publication-level context and contribution summaries.
 - **Publication contribution summary:** Examines how growth changes relationships between system components and increases dependencies, decision points, and risk exposure. Governance must evolve alongside complexity through clearer responsibilities, decision boundaries, accountability, information flows, escalation paths, and review mechanisms.
 - **Core progression:** Growth → Complexity → Dependencies → Decision Points → Risk → Governance Pressure
 - **Closing principle:** Creation Must Evolve.
-- **Related Identity entry:** To be synchronized in the Identity workbook.
-- **Related Methodology entry:** To be synchronized in the Methodology workbook.
-- **Related Philosophy entry:** To be synchronized in the Philosophy workbook.
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0025.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0025.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0025.
 - **Notes / unresolved details:** Publication ID and metadata verified against the canonical Publication Register; contribution details preserved from the approved publication record.
 
 ### PUB-0026 — Why More Rules Do Not Always Create Better Governance
@@ -122,9 +126,9 @@ The entries below preserve publication-level context and contribution summaries.
 - **Central distinction:** More Rules ≠ Better Governance
 - **Publication contribution summary:** Extends PUB-0025's discussion of governance pressure by examining the tendency to respond to complexity through additional rules. Rules are necessary instruments, but effective governance also requires clarity, appropriate authority, accountability, decision boundaries, consistency, adaptability, and system understanding.
 - **Core progression:** Growth → Complexity → Governance Pressure → Rules → Governance Capability
-- **Related Identity entry:** To be synchronized in the Identity workbook.
-- **Related Methodology entry:** To be synchronized in the Methodology workbook.
-- **Related Philosophy entry:** To be synchronized in the Philosophy workbook.
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0026.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0026.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0026.
 - **Notes / unresolved details:** Publication ID, date, version, and title verified against the canonical Publication Register; phase, type, preview, and contribution details preserved from the approved publication record.
 
 ### PUB-0027 — Why Decision Boundaries Matter More Than More Approvals
@@ -143,9 +147,9 @@ The entries below preserve publication-level context and contribution summaries.
 - **Publication contribution summary:** Completes the Phase-4 governance progression by distinguishing approval volume from responsible decision-making. Effective governance clarifies who may decide, within what boundary, when escalation is necessary, and who remains accountable for the outcome.
 - **Core progression:** Growth → Complexity → Governance Pressure → Rules → Decision Boundaries → Responsible Authority → Accountability
 - **Next phase gateway:** Why AI Needs Governance
-- **Related Identity entry:** To be synchronized in the Identity workbook.
-- **Related Methodology entry:** To be synchronized in the Methodology workbook.
-- **Related Philosophy entry:** To be synchronized in the Philosophy workbook.
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0027.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0027.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0027.
 - **Notes / unresolved details:** Publication ID, date, version, and title verified against the canonical Publication Register; phase, type, preview, and contribution details preserved from the approved publication record.
 
 ### PUB-0028 — Why AI Needs Governance
@@ -164,9 +168,9 @@ The entries below preserve publication-level context and contribution summaries.
 - **Core governance principle:** Governance should be proportionate to capability, authority, and consequence.
 - **Publication contribution summary:** Opens Phase-5 by extending SARGEN™ governance into artificial intelligence. Examines AI participation in decisions and task execution, authority boundaries, meaningful human oversight, accountability, system-level governance, and adaptation in proportion to capabilities and consequences.
 - **Core progression:** Technology Capability → Decision Participation → Authority Boundaries → Human Oversight → Accountability → Governance Adaptation
-- **Related Identity entry:** To be synchronized in the Identity workbook.
-- **Related Methodology entry:** To be synchronized in the Methodology workbook.
-- **Related Philosophy entry:** To be synchronized in the Philosophy workbook.
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0028.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0028.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0028.
 - **Notes / unresolved details:** Publication ID, date, version, and title verified against the canonical Publication Register; phase, type, preview, and contribution details preserved from the approved publication record.
 
 ### PUB-0029 — Why Automation Cannot Replace Judgment
@@ -184,9 +188,9 @@ The entries below preserve publication-level context and contribution summaries.
 - **Central distinction:** Automation ≠ Judgment
 - **Central argument:** Automation can execute defined processes efficiently, but changing circumstances may require contextual understanding, interpretation, and responsible decision-making. Efficiency alone does not establish that a decision is appropriate.
 - **Publication contribution summary:** Continues Phase-5 by examining why automated execution must remain distinct from judgment when circumstances, exceptions, and consequences require responsible decisions. This follows PUB-0028's governance discussion without conflating automation with authority or accountability.
-- **Related Identity entry:** To be synchronized in the Identity workbook.
-- **Related Methodology entry:** To be synchronized in the Methodology workbook.
-- **Related Philosophy entry:** To be synchronized in the Philosophy workbook.
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0029.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0029.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0029.
 - **Notes / unresolved details:** Official Publication ID, title, date, platform, version, and status verified against the canonical Publication Register. The article sequence number is intentionally left unassigned because PUB-0029 does not establish that number.
 
 
