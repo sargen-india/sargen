@@ -13,7 +13,7 @@ This index provides a single entry point to the four separate workbook records m
 - The Publications workbook contains publication-level contribution records through PUB-0029. The canonical Publication Register remains authoritative for official publication metadata.
 - The Identity workbook contains identity contribution records for PUB-0023 through PUB-0029; its update was re-fetched for verification in this synchronization work.
 - The Methodology workbook now contains methodology contribution records for PUB-0023 through PUB-0029. The updated file was re-fetched and checked for the PUB-0023 and PUB-0029 entries and the PUB-0029 methodological principle.
-- The Philosophy workbook has been inspected, but contribution entries for PUB-0023 through PUB-0029 have not yet been added or verified in this synchronization pass.
+- The Philosophy workbook now contains philosophical contribution records for PUB-0023 through PUB-0029. The updated file was re-fetched and verified; the entries are contribution records, not automatic declarations of new LOCKED principles.
 - The four-workbook system is **not yet fully synchronized**. Do not mark the migration complete until all four workbooks have been reviewed, updated as required, and re-fetched for verification.
 
 ## Four Workbooks
