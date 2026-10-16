@@ -8,13 +8,13 @@ This index provides a single entry point to the four separate workbook records m
 
 ## Synchronization Status
 
-**Status: PARTIALLY SYNCHRONIZED — MIGRATION IN PROGRESS (16 Oct 2026).**
+**Status: REPOSITORY CROSS-REFERENCES RECONCILED — HISTORICAL COMPLETENESS NOT YET VERIFIED (16 Oct 2026).**
 
-- The Publications workbook contains publication-level contribution records through PUB-0029. The canonical Publication Register remains authoritative for official publication metadata.
-- The Identity workbook contains identity contribution records for PUB-0023 through PUB-0029; its update was re-fetched for verification in this synchronization work.
-- The Methodology workbook now contains methodology contribution records for PUB-0023 through PUB-0029. The updated file was re-fetched and checked for the PUB-0023 and PUB-0029 entries and the PUB-0029 methodological principle.
-- The Philosophy workbook now contains philosophical contribution records for PUB-0023 through PUB-0029. The updated file was re-fetched and verified; the entries are contribution records, not automatic declarations of new LOCKED principles.
-- The four-workbook system is **not yet fully synchronized**. Do not mark the migration complete until all four workbooks have been reviewed, updated as required, and re-fetched for verification.
+- All four workbooks contain contribution records for PUB-0023 through PUB-0029.
+- Cross-workbook references for PUB-0023 through PUB-0029 have been aligned across Publications, Identity, Methodology, and Philosophy.
+- The canonical Publication Register remains authoritative for official publication metadata.
+- Repository-level checks confirm that the four files and their cross-references are present. However, the complete saved contents of all four separate WORK chats have not been independently compared line-by-line against the repository. Therefore, full historical migration must not yet be claimed complete.
+- The Philosophy workbook entries remain contribution records, not automatic declarations of new LOCKED principles.
 
 ## Four Workbooks
 
@@ -46,7 +46,7 @@ When a publication is confirmed as published:
 4. Keep **LOCKED**, **CURRENT / WORKING**, and **DRAFT / PROPOSAL** states distinct. Do not promote a proposal to a locked decision without explicit approval.
 5. Do not infer an article sequence number from a Publication ID. They are different identifiers.
 6. Re-fetch changed files after writing, verify the intended additions and preserved content, and provide the resulting GitHub commit link(s).
-7. Keep the index status at **PARTIALLY SYNCHRONIZED — MIGRATION IN PROGRESS** until all four workbooks have been individually reviewed, updated as required, and verified. Update the status only on evidence from all four files.
+7. Distinguish repository-level cross-reference reconciliation from complete historical migration. Mark historical migration complete only after the saved source records from all four WORK chats have been compared against the repository and any gaps resolved.
 
 ## Record Integrity
 
