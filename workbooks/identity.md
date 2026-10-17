@@ -34,6 +34,39 @@ This workbook records how each relevant publication reinforces, extends, or qual
 
 The following entries preserve publication-specific identity contributions recorded in the Identity WORK chat. They are contribution records, not independent brand decisions or newly locked principles. Official publication metadata remains governed by the canonical Publication Register and the Publications workbook.
 
+## Identity-dimension historical coverage (PUB-0001–PUB-0022)
+
+The historical titles are verified, but the original Identity WORK-chat contribution records for PUB-0001–PUB-0022 were not available in the inspected repository context. No identity positioning or public-identity claim is inferred from a title alone.
+
+| Publication ID | Date | Title | Evidence / audit note |
+|---|---|---|---|
+| PUB-0001 | 24 Jun 2026 | Why Systems Fail When They Depend on Individuals | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0002 | 24 Jun 2026 | Why Documentation Is More Valuable Than Memory | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0003 | 26 Jun 2026 | Why Governance Is Not Bureaucracy | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0004 | 28 Jun 2026 | Why Governance Exists to Preserve Continuity | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0005 | 06 Jul 2026 | Why Systems Need Stewardship | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0006 | 09 Jul 2026 | Why Rules Create Freedom | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0007 | 12 Jul 2026 | Why Stewardship Is Different From Ownership | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0008 | 17 Jul 2026 | Why Every Enduring System Has a Constitution | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0009 | 19 Jul 2026 | Why Automation Needs Governance | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0010 | 22 Jul 2026 | Why Institutional Memory Matters | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0011 | 24 Jul 2026 | Why Accountability Requires Documentation | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0012 | 27 Jul 2026 | Why Continuity Is a Strategic Asset | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0013 | 31 Jul 2026 | Why Trust Is Built Through Transparency | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0014 | 04 Aug 2026 | Why Responsible Evolution Requires Constraints | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0015 | 06 Aug 2026 | Why Great Teams Don't Depend on Heroes | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0016 | 10 Aug 2026 | Why Every Decision Leaves a Legacy | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0017 | 13 Aug 2026 | Why Smart Organizations Document Everything | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0018 | 17 Aug 2026 | Why Systems Drift Without Principles | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0019 | 20 Aug 2026 | Why Good Leaders Design Systems | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0020 | 23 Aug 2026 | Why Every System Creates Its Own Culture | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0021 | 28 Aug 2026 | Why Knowledge Is a Strategic Advantage | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+| PUB-0022 | 02 Sep 2026 | Why Good Leaders Build Successors | Source-chat contribution record not available in the inspected repository context; requires source-level reconciliation. |
+
+**Audit boundary:** This section establishes historical coverage and records the available evidence. It does not certify source-chat completeness for PUB-0001–PUB-0022. Existing detailed contribution entries for PUB-0023–PUB-0029 remain unchanged.
+
+---
+
 ### PUB-0023 — Why Organizational Culture Is Designed, Not Declared
 
 - **Status:** FINAL / PUBLISHED contribution; identity interpretation remains a contribution record.
