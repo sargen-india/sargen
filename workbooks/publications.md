@@ -50,6 +50,39 @@ For PUB-0023 through PUB-0029, corresponding contribution entries are present in
 
 The entries below preserve publication-level context and contribution summaries. The canonical Publication Register remains authoritative for official publication metadata. Article sequence numbers are recorded only where independently confirmed; they must not be inferred from Publication IDs.
 
+## Publication-level historical coverage (PUB-0001–PUB-0022)
+
+Publication ID, date, title, and published status are verified against the canonical Publication Register. Summary below is grounded in the milestone record where available; it is not a substitute for the original publication text.
+
+| Publication ID | Date | Title | Evidence / audit note |
+|---|---|---|---|
+| PUB-0001 | 24 Jun 2026 | Why Systems Fail When They Depend on Individuals | Milestone record describes governance, continuity, documentation, accountability, stewardship, and structural dependency. |
+| PUB-0002 | 24 Jun 2026 | Why Documentation Is More Valuable Than Memory | Canonical register confirms title/date; detailed milestone summary not located in the inspected milestone excerpt. |
+| PUB-0003 | 26 Jun 2026 | Why Governance Is Not Bureaucracy | Milestone record describes governance as clarity, accountability, consistency, and continuity rather than unnecessary complexity. |
+| PUB-0004 | 28 Jun 2026 | Why Governance Exists to Preserve Continuity | Milestone record describes governance preserving understanding, accountability, and resilience as people, teams, and technology change. |
+| PUB-0005 | 06 Jul 2026 | Why Systems Need Stewardship | Milestone record describes stewardship as responsibility for continuity, institutional integrity, knowledge, and responsible evolution. |
+| PUB-0006 | 09 Jul 2026 | Why Rules Create Freedom | Milestone record describes well-designed rules reducing uncertainty and enabling responsible decisions and collaboration. |
+| PUB-0007 | 12 Jul 2026 | Why Stewardship Is Different From Ownership | Milestone record distinguishes ownership authority from stewardship responsibility across time. |
+| PUB-0008 | 17 Jul 2026 | Why Every Enduring System Has a Constitution | Milestone record describes constitutional principles preserving identity, purpose, and continuity through change. |
+| PUB-0009 | 19 Jul 2026 | Why Automation Needs Governance | Milestone record describes governance ensuring automation remains consistent, accountable, transparent, and aligned with system principles. |
+| PUB-0010 | 22 Jul 2026 | Why Institutional Memory Matters | Milestone record describes institutional memory preserving knowledge, context, and reasoning beyond individual memory. |
+| PUB-0011 | 24 Jul 2026 | Why Accountability Requires Documentation | Milestone record describes documentation as evidence supporting accountability and traceable decisions. |
+| PUB-0012 | 27 Jul 2026 | Why Continuity Is a Strategic Asset | Milestone record describes continuity as a strategic capability supporting sustainable growth. |
+| PUB-0013 | 31 Jul 2026 | Why Trust Is Built Through Transparency | Milestone record describes transparency making decisions understandable, explainable, and accountable. |
+| PUB-0014 | 04 Aug 2026 | Why Responsible Evolution Requires Constraints | Milestone record describes constraints as conditions for responsible evolution and institutional integrity. |
+| PUB-0015 | 06 Aug 2026 | Why Great Teams Don't Depend on Heroes | Milestone record describes reducing dependence on individuals by embedding knowledge, responsibility, and capability in the system. |
+| PUB-0016 | 10 Aug 2026 | Why Every Decision Leaves a Legacy | Milestone record describes decisions shaping future standards, precedents, institutional memory, and future decision conditions. |
+| PUB-0017 | 13 Aug 2026 | Why Smart Organizations Document Everything | Milestone record describes documentation transforming experience into shared knowledge, institutional memory, and continuity. |
+| PUB-0018 | 17 Aug 2026 | Why Systems Drift Without Principles | Milestone record describes shared principles as foundations for judgment, consistency, and responsible evolution. |
+| PUB-0019 | 20 Aug 2026 | Why Good Leaders Design Systems | Milestone record describes leaders designing systems that translate principles into structures and reduce personal dependency. |
+| PUB-0020 | 23 Aug 2026 | Why Every System Creates Its Own Culture | Milestone record describes culture emerging from repeated system-shaped behaviours and incentives. |
+| PUB-0021 | 28 Aug 2026 | Why Knowledge Is a Strategic Advantage | Milestone record describes knowledge as a strategic advantage through preserved experience, better judgment, transfer, and capability. |
+| PUB-0022 | 02 Sep 2026 | Why Good Leaders Build Successors | Milestone record describes successor development, capability transfer, reduced dependency, and continuity across leadership transitions. |
+
+**Audit boundary:** This section establishes historical coverage and records the available evidence. It does not certify source-chat completeness for PUB-0001–PUB-0022. Existing detailed contribution entries for PUB-0023–PUB-0029 remain unchanged.
+
+---
+
 ### PUB-0023 — Why Organizational Culture Is Designed, Not Declared
 
 - **Publication ID:** PUB-0023
