@@ -19,3 +19,9 @@
 ## सीमा
 
 केवल शीर्षक के आधार पर लेख की विशिष्ट पहचान-स्थिति, लक्षित पाठक-वर्ग, positioning या किसी locked brand decision का अनुमान नहीं लगाया गया है। यह रिकॉर्ड कोई नया LOCKED identity decision नहीं बनाता।
+
+
+## Canonical Publication Record
+
+- Canonical Publication ID: HIN-PUB-0001
+- Version: v1.0
