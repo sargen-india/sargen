@@ -24,3 +24,9 @@
 ## Update Protocol
 
 नए लेख की प्रविष्टि से पहले title, date, public URL, platform, version और canonical ID की पुष्टि करें। उपलब्ध न होने वाली जानकारी को स्पष्ट रूप से pending रखें।
+
+
+## Canonical Publication Record
+
+- Canonical Publication ID: HIN-PUB-0001
+- Version: v1.0
