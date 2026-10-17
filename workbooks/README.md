@@ -10,10 +10,10 @@ This index provides a single entry point to the four separate workbook records m
 
 **Status: REPOSITORY CROSS-REFERENCES RECONCILED — HISTORICAL COMPLETENESS NOT YET VERIFIED (16 Oct 2026).**
 
-- All four workbooks contain contribution records for PUB-0023 through PUB-0029.
-- Cross-workbook references for PUB-0023 through PUB-0029 have been aligned across Publications, Identity, Methodology, and Philosophy.
+- All four workbooks now include historical coverage entries for PUB-0001 through PUB-0022, using canonical publication metadata and the milestone ledger where available.
+- All four workbooks contain detailed contribution records for PUB-0023 through PUB-0029; cross-workbook references for these seven records have been aligned.
 - The canonical Publication Register remains authoritative for official publication metadata.
-- Repository-level checks confirm that the four files and their cross-references are present. However, the complete saved contents of all four separate WORK chats have not been independently compared line-by-line against the repository. Therefore, full historical migration must not yet be claimed complete.
+- **Historical completeness status: PARTIALLY VERIFIED.** The 29-publication register is covered by the workbook records, but the complete saved contents of all four WORK chats have not been independently compared line-by-line against the repository. For PUB-0001–PUB-0022, Identity and Methodology records are intentionally marked as needing source-chat reconciliation rather than reconstructed from titles. Do not claim full source-chat migration until those original records are available and checked.
 - The Philosophy workbook entries remain contribution records, not automatic declarations of new LOCKED principles.
 
 ## Four Workbooks
@@ -46,7 +46,7 @@ When a publication is confirmed as published:
 4. Keep **LOCKED**, **CURRENT / WORKING**, and **DRAFT / PROPOSAL** states distinct. Do not promote a proposal to a locked decision without explicit approval.
 5. Do not infer an article sequence number from a Publication ID. They are different identifiers.
 6. Re-fetch changed files after writing, verify the intended additions and preserved content, and provide the resulting GitHub commit link(s).
-7. Distinguish repository-level cross-reference reconciliation from complete historical migration. Mark historical migration complete only after the saved source records from all four WORK chats have been compared against the repository and any gaps resolved.
+7. Distinguish register-level historical coverage from complete source-chat migration. Mark historical migration complete only after the saved source records from all four WORK chats have been compared against the repository and any gaps resolved.
 
 ## Record Integrity
 
