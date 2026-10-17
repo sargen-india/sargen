@@ -19,3 +19,9 @@
 ## सीमा
 
 इस प्रविष्टि में कोई checklist, method, framework या निर्णय-प्रक्रिया शीर्षक के आधार पर आविष्कृत नहीं की गई है। कोई प्रस्तावित पद्धति अलग से स्पष्ट रूप में प्रस्तुत की जाएगी और स्वीकृति के बिना LOCKED नहीं मानी जाएगी।
+
+
+## Canonical Publication Record
+
+- Canonical Publication ID: HIN-PUB-0001
+- Version: v1.0
