@@ -3,25 +3,29 @@
 **स्थिति:** CURRENT / WORKING  
 **दायरा:** हिन्दी प्रकाशनों का SARGEN™ हिन्दी की पहचान, सार्वजनिक स्थिति और वैचारिक प्रस्तुति से संबंध।
 
-## प्रकाशित लेख का पहचान-संबंधी रिकॉर्ड
+## प्रकाशित लेखों का पहचान-संबंधी रिकॉर्ड
 
-### जब कोई व्यक्ति चला जाता है, तो उसके साथ क्या जाता है?
+### HIN-PUB-0001 — जब कोई व्यक्ति चला जाता है, तो उसके साथ क्या जाता है?
 
-- **प्रकाशन स्थिति:** Published — उपयोगकर्ता द्वारा पुष्टि की गई।
+- **प्रकाशन स्थिति:** Published.
 - **Date:** 11 October 2026.
 - **Category:** Public Publication.
 - **पहचान-संबंधी स्थिति:** हिन्दी SARGEN™ के प्रकाशित कार्य-संग्रह का प्रारम्भिक रिकॉर्ड।
 - **भूमिका:** यह प्रविष्टि प्रकाशित लेख को हिन्दी workbooks में खोजने और उससे जुड़े योगदानों को अलग-अलग दर्ज करने के लिए है।
-- **सार्वजनिक URL:** [लेख पढ़ें](https://medium.com/@sargen.india/%E0%A4%9C%E0%A4%AC-%E0%A4%95%E0%A5%8B%E0%A4%88-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%9A%E0%A4%B2%E0%A4%BE-%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%Aै-%E0%A4%A4%E0%A5%8B-%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%A5-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-5b25b2f665fc)
-- **पहचान संबंधी विश्लेषण:** मूल लेख का पूरा पाठ उपलब्ध होने पर ही उसके विशिष्ट दावों, भाषा और SARGEN™ की सार्वजनिक पहचान से संबंध का विस्तृत मूल्यांकन किया जाएगा।
-- **Cross-links:** [Publications](publications.md) · [Methodology](methodology.md) · [Philosophy](philosophy.md)
+- **सार्वजनिक URL:** [लेख पढ़ें](https://medium.com/@sargen.india/%E0%A4%9C%E0%A4%AC-%E0%A4%95%E0%A5%8B%E0%A4%88-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%9A%E0%A4%B2%E0%A4%BE-%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%Aै-%E0%A4%A4%E0%A5%8B-%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4थ-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%Aै-5b25b2f665fc)
+
+### HIN-PUB-0002 — क्या किसी संगठन की ताकत उसके लोगों में होती है या उसके system में?
+
+- **प्रकाशन स्थिति:** Published.
+- **Date:** 18 October 2026.
+- **Category:** Public Publication.
+- **पहचान-संबंधी स्थिति:** SARGEN™ हिन्दी के दूसरे सार्वजनिक लेख का रिकॉर्ड; यह लेख व्यक्ति की क्षमता, संगठन की व्यवस्था और साझा सीख के संबंध को सामने रखता है।
+- **भूमिका:** यह प्रविष्टि दूसरे प्रकाशित लेख को हिन्दी workbooks में खोजने और उसके पहचान-संबंधी योगदान को अलग से दर्ज करने के लिए है।
+- **सार्वजनिक URL:** [लेख पढ़ें](https://medium.com/@sargen.india/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8-%E0%A4%95%E0%A5%80-%E0%A4%A4%E0%A4%BE%E0%A4%95%E0%A4%A4-%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87-system-%E0%A4%AE%E0%A5%87%E0%A4%82-91b3c28825f3)
+- **संबंधित रिकॉर्ड:** [Publications](publications.md) · [Methodology](methodology.md) · [Philosophy](philosophy.md)
 
 ## सीमा
 
-केवल शीर्षक के आधार पर लेख की विशिष्ट पहचान-स्थिति, लक्षित पाठक-वर्ग, positioning या किसी locked brand decision का अनुमान नहीं लगाया गया है। यह रिकॉर्ड कोई नया LOCKED identity decision नहीं बनाता।
+ये प्रविष्टियाँ प्रकाशन और उपलब्ध लेख-सामग्री के रिकॉर्ड हैं। ये अपने आप कोई नया LOCKED identity decision, positioning rule या हिन्दी संविधान/Style Guide का संशोधन नहीं बनातीं।
 
-
-## Canonical Publication Record
-
-- Canonical Publication ID: HIN-PUB-0001
-- Version: v1.0
+**Workbook record status:** CURRENT / WORKING
