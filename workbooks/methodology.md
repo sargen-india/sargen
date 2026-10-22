@@ -183,3 +183,17 @@ The historical titles are verified, but the original Methodology WORK-chat contr
 **Synchronization note:** Methodology contribution entries for PUB-0023 through PUB-0029 are cross-linked to the corresponding Publications, Identity, and Philosophy entries in the repository. This confirms repository-level cross-reference coverage; full historical completeness against all saved WORK-chat records remains unverified.
 
 **SARGEN™ — Creation Must Evolve.**
+
+
+### PUB-0030 — Why Digital Systems Need Institutional Memory
+
+- **Status:** FINAL / PUBLISHED contribution; methodological interpretation remains a contribution record.
+- **Methodological contribution title:** Distinguishing Data Storage from Institutional Memory
+- **Question or problem examined:** Does storing data by itself ensure that context and continuity are preserved?
+- **Analytical sequence / model:** Digital data storage → preservation of context → continuity (as framed by the approved title and story preview; not a formally adopted method).
+- **Key dimensions or decision points:** Data availability, context preservation, continuity.
+- **Practical application:** Use as a question for examining digital systems; do not treat this record as an approved checklist or procedure.
+- **Limitations / conditions of use:** This entry is based only on the published title and approved story preview. The full article must be reviewed before expanding the method summary.
+- **Relationship to existing SARGEN™ methodology:** Related to continuity and institutional learning; no new formal method is established here.
+- **Cross-links:** [Publications](publications.md) — PUB-0030; [Identity](identity.md) — PUB-0030; [Philosophy](philosophy.md) — PUB-0030.
+- **Open questions or review notes:** Full-text analysis pending.
