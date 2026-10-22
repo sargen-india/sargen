@@ -167,3 +167,16 @@ The historical titles are verified, but the original Identity WORK-chat contribu
 **Synchronization note:** Identity contribution entries for PUB-0023 through PUB-0029 are cross-linked to the corresponding Publications, Methodology, and Philosophy entries in the repository. This confirms repository-level cross-reference coverage; full historical completeness against all saved WORK-chat records remains unverified.
 
 **SARGEN™ — Creation Must Evolve.**
+
+
+### PUB-0030 — Why Digital Systems Need Institutional Memory
+
+- **Status:** FINAL / PUBLISHED contribution; identity interpretation remains a contribution record.
+- **Identity contribution title:** Institutional Memory in Digital Systems
+- **Phase / series:** Phase-5 — Technology & Future Systems
+- **Core identity associations:** Digital systems, institutional memory, context, continuity, preservation of organizational knowledge.
+- **Distinctive identity claim or distinction:** Storing data is not necessarily the same as preserving institutional memory.
+- **Relationship to established SARGEN™ identity:** The title and approved story preview connect digital systems with the wider SARGEN™ concern for continuity. This is a publication-level association, not a new brand rule.
+- **What this contribution does not claim:** This record does not assert the article's full argument beyond the approved title and preview, and does not create a new locked identity statement.
+- **Cross-links:** [Publications](publications.md) — PUB-0030; [Methodology](methodology.md) — PUB-0030; [Philosophy](philosophy.md) — PUB-0030.
+- **Open questions or review notes:** Detailed identity contribution to be checked against the full published article.
