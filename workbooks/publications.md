@@ -228,3 +228,23 @@ Publication ID, date, title, and published status are verified against the canon
 
 
 **SARGEN™ — Creation Must Evolve.**
+
+
+### PUB-0030 — Why Digital Systems Need Institutional Memory
+
+- **Publication ID:** PUB-0030
+- **Article sequence number (if confirmed):** Not recorded; do not infer an article sequence number from the Publication ID.
+- **Publication date:** 22 Oct 2026
+- **Platform:** Medium
+- **Phase / series:** Phase-5 — Technology & Future Systems
+- **Type / topic:** Article; digital systems, institutional memory, continuity
+- **Public link:** https://medium.com/@sargen.india/why-digital-systems-need-institutional-memory-bca11d5f23d7
+- **Story preview (approved wording):** Digital systems store data, but without institutional memory, context and continuity can be lost.
+- **Status:** FINAL / PUBLISHED
+- **Version:** v1.0
+- **Central distinction:** Data Storage ≠ Institutional Memory
+- **Publication contribution summary:** The approved title and story preview distinguish a digital system's ability to store data from its ability to preserve context and continuity. Detailed claims about the article's argument remain subject to review of the full published text.
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0030.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0030.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0030.
+- **Notes / unresolved details:** Title, URL, publication date, status, version, and preview are based on user-provided publication details. Full-text contribution analysis remains pending.
