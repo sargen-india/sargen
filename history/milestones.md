@@ -909,3 +909,32 @@ Automation follows processes, but changing circumstances demand judgment. Effici
 Status:
 Published
 ---
+
+## Milestone 30
+
+Date:
+22 Oct 2026
+
+Event:
+Publication of PUB-0030 on Medium.
+
+Title:
+Why Digital Systems Need Institutional Memory
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-digital-systems-need-institutional-memory-bca11d5f23d7
+
+Story Preview:
+Digital systems store data, but without institutional memory, context and continuity can be lost.
+
+Significance:
+The publication examines institutional memory in digital systems. The approved story preview distinguishes data storage from the preservation of context and continuity. Further detailed interpretation should be grounded in the full published article text.
+
+Status:
+Published
+Version:
+v1.0
+---
