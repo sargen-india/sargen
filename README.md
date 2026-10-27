@@ -44,6 +44,10 @@ Record preservation over institutional forgetting
 
 Constitutional authority over arbitrary change
 
+## Hindi Workbooks
+
+Hindi-specific workbooks have been relocated to the dedicated SARGEN™ Hindi repository. They are no longer maintained in this umbrella repository; this avoids split ownership between the umbrella SARGEN™ records and the independent Hindi knowledge stream.
+
 Repository Structure
 
 framework/
