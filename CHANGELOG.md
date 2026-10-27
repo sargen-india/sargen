@@ -4,6 +4,13 @@
 
 All notable changes to the SARGEN™ framework will be documented in this file.
 
+## [2026-10-27] — Hindi Workbooks Relocated
+
+### Changed
+- The current `workbooks-hindi/` directory has been moved to the dedicated SARGEN™ Hindi repository to keep Hindi-specific workbooks with the Hindi knowledge stream.
+- The five workbook files were copied and verified in the destination before cleanup here.
+- Existing Git history is retained; removing current files does not erase prior commits.
+
 The format is based on chronological framework evolution.
 
 ---
