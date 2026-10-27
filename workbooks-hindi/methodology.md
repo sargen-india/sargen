@@ -24,6 +24,16 @@
 - **लेख लिंक:** [Medium पर पढ़ें](https://medium.com/@sargen.india/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8-%E0%A4%95%E0%A5%80-%E0%A4%A4%E0%A4%BE%E0%A4%95%E0%A4%A4-%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87-system-%E0%A4%AE%E0%A5%87%E0%A4%82-91b3c28825f3)
 - **संबंधित रिकॉर्ड:** [Publications](publications.md) · [Identity](identity.md) · [Philosophy](philosophy.md)
 
+### HIN-PUB-0003 — जब सही व्यक्ति ही हर समस्या का समाधान हो
+
+- **प्रकाशन स्थिति:** Published.
+- **Date:** 27 October 2026.
+- **पद्धतिगत योगदान:** लेख तत्काल समस्या-समाधान और बार-बार उत्पन्न होने वाली समस्या के कारण को समझने के बीच भेद रखता है। किसी व्यक्ति का बार-बार हस्तक्षेप दिखे तो उसे जाँच का संकेत माना जा सकता है; केवल इसी आधार पर system failure का निष्कर्ष नहीं निकाला जाता।
+- **विश्लेषण का प्रश्न:** क्या विशेषज्ञता का उचित उपयोग हो रहा है, या कामकाज उसी व्यक्ति की उपलब्धता पर निर्भर होने लगा है?
+- **सीमा:** यह लेख की पद्धतिगत व्याख्या का रिकॉर्ड है, कोई स्वीकृत checklist या LOCKED methodology नहीं।
+- **लेख लिंक:** [Medium पर पढ़ें](https://medium.com/@sargen.india/%E0%A4%9C%E0%A4%AC-%E0%A4%B8%E0%A4%B9%E0%A5%80-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%B9%E0%A5%80-%E0%A4%B9%E0%A4%B0-%E0%A4%B8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8-%E0%A4%B9%E0%A5%8B-2353c91b1eff).
+- **संबंधित रिकॉर्ड:** [Publications](publications.md) · [Identity](identity.md) · [Philosophy](philosophy.md)
+
 ## सीमा
 
 इस workbook में किसी checklist, method, framework या निर्णय-प्रक्रिया को तब तक canonical नहीं माना जाएगा जब तक उसे स्पष्ट प्रस्ताव, समीक्षा और स्वीकृति न मिले। लेखों से निकाले गए विश्लेषण को LOCKED methodology के रूप में प्रस्तुत नहीं किया जाएगा।
