@@ -248,3 +248,26 @@ Publication ID, date, title, and published status are verified against the canon
 - **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0030.
 - **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0030.
 - **Notes / unresolved details:** Title, URL, publication date, status, version, and preview are based on user-provided publication details. Full-text contribution analysis remains pending.
+
+
+### PUB-0031 — Why People Leave but Systems Shouldn’t
+
+- **Publication ID:** PUB-0031
+- **Article sequence number:** Article-31
+- **Publication date:** 31 Oct 2026
+- **Platform:** Medium
+- **Phase / series:** Phase-6 — Human System
+- **Role in series:** Gateway
+- **Type / topic:** Article; institutional continuity, human contribution, knowledge preservation, responsibility transfer
+- **Public link:** https://medium.com/@sargen.india/why-people-leave-but-systems-shouldnt-f872f0f594b4
+- **Subtitle:** How institutions preserve essential knowledge, transfer responsibilities and carry learning forward as people and circumstances change.
+- **Status:** FINAL / PUBLISHED
+- **Version:** v1.0
+- **Central distinction:** People are not interchangeable; their essential contributions can strengthen an institution beyond their individual roles.
+- **Central thesis:** An institution should preserve the value of human contribution without making its continuity dependent on the continued presence of particular individuals. It must preserve what remains essential, transfer responsibilities, and carry accumulated learning forward while leaving room for new people, new judgments, and new ways of working.
+- **Publication contribution summary:** Opens Phase-6 by examining the institutional consequences of people leaving, the difference between a role and the person occupying it, knowledge that has not become institutional, the limits of systems in preserving human contribution, and the governance required to sustain continuity. It argues that continuity should preserve learning without turning past practices into permanent authority or making the institution rigid.
+- **Core progression:** Human Contribution → Essential Knowledge → Role and Responsibility Continuity → System Support → Institutional Governance → Adaptive Continuity
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0031.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0031.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0031.
+- **Notes / unresolved details:** Article-31 is the confirmed editorial sequence number; PUB-0031 is the permanent publication identifier. The Medium subtitle is recorded above; no separate story-preview wording is asserted here.
