@@ -190,3 +190,22 @@ The historical titles are verified. Where available, milestone descriptions prov
 - **What remains uncertain or unapproved:** This interpretation is limited to the title and approved preview. No broader universal claim is asserted.
 - **Cross-links:** Publications — PUB-0030; Identity — PUB-0030; Methodology — PUB-0030.
 - **Open questions or review notes:** Full-text philosophical analysis pending.
+
+
+### PUB-0031 — Why People Leave but Systems Shouldn’t
+
+- **Status:** FINAL / PUBLISHED contribution; philosophical interpretation remains a contribution record.
+- **Philosophical contribution title:** Human Contribution Beyond Individual Presence
+- **Phase / series:** Phase-6 — Human System; Gateway
+- **Publication date:** 31 Oct 2026
+- **Platform:** Medium
+- **Public link:** https://medium.com/@sargen.india/why-people-leave-but-systems-shouldnt-f872f0f594b4
+- **Central proposition or distinction:** Institutional continuity should preserve the value of human contribution without making the institution dependent on the continued presence of particular individuals.
+- **Reasoning / supporting argument:** People carry experience, judgment, relationships, and knowledge. When they leave, a role may continue while essential context or capability is lost. Replacing the person does not automatically restore the contribution. Institutions therefore need to identify what remains essential, transfer responsibilities, and carry accumulated learning forward.
+- **Core philosophical contribution:** The purpose of continuity is not to make people interchangeable or reproduce the past. It is to allow human contributions to strengthen the institution beyond individual roles while leaving room for new people, new judgments, and new ways of working.
+- **Relationship to established SARGEN™ principles:** Connects stewardship, institutional memory, continuity, governance, and evolution within the human dimension of institutional life. It does not replace or amend an established LOCKED principle.
+- **Continuity implications:** Continuity requires more than role replacement or documentation. It requires essential knowledge, responsibility, context, and institutional learning to remain usable as people and circumstances change.
+- **Evolution or adaptation implications:** The institution must preserve learning without making inherited practices permanently authoritative. It should be able to change without repeatedly losing what it has learned.
+- **What remains uncertain or unapproved:** This publication contribution does not establish a new constitutional rule or independently LOCKED philosophical principle. Later Phase-6 articles will develop related questions, including trust, human capability, responsibility and control, and sustainable governance.
+- **Cross-links:** [Publications](publications.md) — PUB-0031; [Identity](identity.md) — PUB-0031; [Methodology](methodology.md) — PUB-0031.
+- **Open questions or review notes:** Preserve the distinction between valuing human contribution and depending on an individual's continued presence. The article is the Phase-6 Gateway; do not pre-empt the distinct arguments reserved for subsequent articles.
