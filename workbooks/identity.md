@@ -180,3 +180,20 @@ The historical titles are verified, but the original Identity WORK-chat contribu
 - **What this contribution does not claim:** This record does not assert the article's full argument beyond the approved title and preview, and does not create a new locked identity statement.
 - **Cross-links:** [Publications](publications.md) — PUB-0030; [Methodology](methodology.md) — PUB-0030; [Philosophy](philosophy.md) — PUB-0030.
 - **Open questions or review notes:** Detailed identity contribution to be checked against the full published article.
+
+
+### PUB-0031 — Why People Leave but Systems Shouldn’t
+
+- **Status:** FINAL / PUBLISHED contribution; identity interpretation remains a contribution record.
+- **Identity contribution title:** Human Contribution and Institutional Continuity
+- **Phase / series:** Phase-6 — Human System; Gateway
+- **Publication date:** 31 Oct 2026
+- **Platform:** Medium
+- **Public link:** https://medium.com/@sargen.india/why-people-leave-but-systems-shouldnt-f872f0f594b4
+- **Core identity associations:** Human contribution, institutional continuity, stewardship, knowledge preservation, responsibility transfer, institutional learning, responsible evolution.
+- **Distinctive identity claim or distinction:** People are not interchangeable, but the value of their contributions can strengthen an institution beyond their individual roles.
+- **Relationship to established SARGEN™ identity:** Extends the established concern for continuity beyond records and digital systems to the human contributions through which institutions operate and learn. It connects stewardship with preserving essential knowledge and responsibilities without making institutional continuity dependent on particular individuals.
+- **Phase-6 role:** Opens the Human System series by establishing the relationship between people, their contributions, institutional memory, and continuity as people and circumstances change.
+- **What this contribution does not claim:** It does not seek to make people interchangeable, capture every aspect of individual experience, or preserve every existing practice unchanged. It does not declare a new locked identity rule.
+- **Cross-links:** [Publications](publications.md) — PUB-0031; [Methodology](methodology.md) — PUB-0031; [Philosophy](philosophy.md) — PUB-0031.
+- **Open questions or review notes:** The article's approved subtitle is recorded in the Publications workbook. This is a publication contribution record, not a revision of the SARGEN™ brand identity.
