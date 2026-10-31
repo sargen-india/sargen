@@ -197,3 +197,28 @@ The historical titles are verified, but the original Methodology WORK-chat contr
 - **Relationship to existing SARGEN™ methodology:** Related to continuity and institutional learning; no new formal method is established here.
 - **Cross-links:** [Publications](publications.md) — PUB-0030; [Identity](identity.md) — PUB-0030; [Philosophy](philosophy.md) — PUB-0030.
 - **Open questions or review notes:** Full-text analysis pending.
+
+
+### PUB-0031 — Why People Leave but Systems Shouldn’t
+
+- **Status:** FINAL / PUBLISHED contribution; methodological interpretation remains a contribution record.
+- **Methodological contribution title:** Preserving Essential Knowledge and Responsibility Through Human Change
+- **Phase / series:** Phase-6 — Human System; Gateway
+- **Publication date:** 31 Oct 2026
+- **Platform:** Medium
+- **Public link:** https://medium.com/@sargen.india/why-people-leave-but-systems-shouldnt-f872f0f594b4
+- **Question or problem examined:** How can an institution sustain essential knowledge, responsibilities, and learning when the people who carry them change or leave?
+- **Analytical sequence / model:** Human Contribution → Identify Essential Knowledge → Clarify Role and Responsibility → Transfer Context and Ownership → Govern Access and Review → Adapt Through New Judgment
+- **Key dimensions or decision points:**
+  1. **Essential knowledge:** Identify what the institution cannot afford to lose; do not assume every experience must be recorded.
+  2. **Role and person:** Distinguish formal responsibilities from the experience, judgment, and relationships contributed by an individual.
+  3. **Transfer and continuity:** Preserve relevant context, clarify ownership, and provide reasonable handover and access arrangements.
+  4. **System limits:** Recognize that documents and procedures cannot transfer every aspect of experience or remove the need for judgment.
+  5. **Governance and review:** Determine relevance, access, ownership, confidentiality, and when inherited practices should be revised or discontinued.
+  6. **Adaptation:** Carry learning forward without making previous decisions permanently authoritative.
+- **Practical application:** Examine roles and critical processes for dependencies on individual memory or presence. Identify essential knowledge and responsibilities, establish proportionate transfer and review practices, and preserve decision context while allowing new people to question inherited assumptions.
+- **Methodological objective:** Enable institutional continuity without substituting documentation for judgment or continuity for rigidity.
+- **Limitations / conditions of use:** Not all knowledge is transferable or suitable for recording. Confidentiality and appropriate access must be respected. This contribution is an analytical approach from the article, not a separately approved checklist or formal procedure.
+- **Relationship to existing SARGEN™ methodology:** Extends institutional memory and continuity concerns into human roles, responsibility transfer, and the governance of accumulated learning.
+- **Cross-links:** [Publications](publications.md) — PUB-0031; [Identity](identity.md) — PUB-0031; [Philosophy](philosophy.md) — PUB-0031.
+- **Open questions or review notes:** Do not treat this contribution record as a new LOCKED methodology without separate approval.
