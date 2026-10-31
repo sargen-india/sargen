@@ -67,7 +67,7 @@ The historical titles are verified. Where available, milestone descriptions prov
 | PUB-0021 | 28 Aug 2026 | Why Knowledge Is a Strategic Advantage | Milestone record describes knowledge as a strategic advantage through preserved experience, better judgment, transfer, and capability. |
 | PUB-0022 | 02 Sep 2026 | Why Good Leaders Build Successors | Milestone record describes successor development, capability transfer, reduced dependency, and continuity across leadership transitions. |
 
-**Audit boundary:** This section establishes historical coverage and records the available evidence. It does not certify source-chat completeness for PUB-0001–PUB-0022. Existing detailed contribution entries for PUB-0023–PUB-0029 remain unchanged.
+**Audit boundary:** This section establishes historical coverage and records the available evidence. It does not certify source-chat completeness for PUB-0001–PUB-0022. Existing detailed contribution entries for PUB-0023–PUB-0031 remain unchanged.
 
 ---
 
@@ -171,7 +171,7 @@ The historical titles are verified. Where available, milestone descriptions prov
 
 ---
 
-**Synchronization note:** Philosophical contribution entries for PUB-0023 through PUB-0029 are cross-linked to the corresponding Publications, Identity, and Methodology entries in the repository. Publication metadata remains governed by the canonical Publication Register and Publications workbook. These are contribution records, not automatic declarations of new LOCKED principles. Repository-level cross-reference coverage has been checked; full historical completeness against all saved WORK-chat records remains unverified.
+**Synchronization note:** Philosophical contribution entries for PUB-0023 through PUB-0031 are cross-linked to the corresponding Publications, Identity, and Methodology entries in the repository. Publication metadata remains governed by the canonical Publication Register and Publications workbook. These are contribution records, not automatic declarations of new LOCKED principles. Repository-level cross-reference coverage has been checked; full historical completeness against all saved WORK-chat records remains unverified.
 
 **SARGEN™ — Creation Must Evolve.**
 
