@@ -8,12 +8,12 @@ This index provides a single entry point to the four separate workbook records m
 
 ## Synchronization Status
 
-**Status: REPOSITORY CROSS-REFERENCES RECONCILED — HISTORICAL COMPLETENESS NOT YET VERIFIED (16 Oct 2026).**
+**Status: REPOSITORY CROSS-REFERENCES RECONCILED — HISTORICAL COMPLETENESS NOT YET VERIFIED (31 Oct 2026).**
 
 - All four workbooks now include historical coverage entries for PUB-0001 through PUB-0022, using canonical publication metadata and the milestone ledger where available.
-- All four workbooks contain detailed contribution records for PUB-0023 through PUB-0030; cross-workbook references for these seven records have been aligned.
+- All four workbooks contain contribution records for PUB-0023 through PUB-0031; cross-workbook references for these records have been aligned.
 - The canonical Publication Register remains authoritative for official publication metadata.
-- **Historical completeness status: PARTIALLY VERIFIED.** The 30-publication register is covered by the workbook records, but the complete saved contents of all four WORK chats have not been independently compared line-by-line against the repository. For PUB-0001–PUB-0022, Identity and Methodology records are intentionally marked as needing source-chat reconciliation rather than reconstructed from titles. Do not claim full source-chat migration until those original records are available and checked.
+- **Historical completeness status: PARTIALLY VERIFIED.** The 31-publication register is covered by the workbook records, but the complete saved contents of all four WORK chats have not been independently compared line-by-line against the repository. For PUB-0001–PUB-0022, Identity and Methodology records are intentionally marked as needing source-chat reconciliation rather than reconstructed from titles. Do not claim full source-chat migration until those original records are available and checked.
 - The Philosophy workbook entries remain contribution records, not automatic declarations of new LOCKED principles.
 
 ## Four Workbooks
