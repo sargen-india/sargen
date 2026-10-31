@@ -938,3 +938,48 @@ Published
 Version:
 v1.0
 ---
+
+## Milestone 31
+
+Date:
+31 Oct 2026
+
+Event:
+Publication of PUB-0031 on Medium.
+
+Article Sequence:
+Article-31
+
+Title:
+Why People Leave but Systems Shouldn’t
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-people-leave-but-systems-shouldnt-f872f0f594b4
+
+Phase:
+Phase-6 — Human System
+
+Role in Series:
+Gateway
+
+Subtitle:
+How institutions preserve essential knowledge, transfer responsibilities and carry learning forward as people and circumstances change.
+
+Significance:
+This publication opens Phase-6 — Human System by examining how institutions can preserve essential knowledge, transfer responsibilities, and carry accumulated learning forward as people and circumstances change. It distinguishes institutional continuity from dependence on the continued presence of particular individuals. People contribute experience, judgment, relationships, and knowledge; the institution must preserve what remains essential without treating people as interchangeable or making the past permanently authoritative.
+
+Central distinction:
+Institutional continuity is not the reproduction of an individual. It is the ability to carry forward essential contributions while allowing new people, judgments, and ways of working.
+
+Core progression:
+Human Contribution → Essential Knowledge → Role and Responsibility Continuity → Institutional Memory → Governed Adaptation → Evolution
+
+Status:
+Published
+
+Version:
+v1.0
+---
