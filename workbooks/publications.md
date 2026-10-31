@@ -33,7 +33,7 @@ The Publication Register remains the source for official publication metadata. T
 
 ## Cross-Workbook Reconciliation
 
-For PUB-0023 through PUB-0029, corresponding contribution entries are present in the Identity, Methodology, and Philosophy workbooks. Their links are recorded above. This confirms repository-level cross-reference coverage; it does not independently certify that every historical detail from the four separate WORK chats has been migrated.
+For PUB-0023 through PUB-0031, corresponding contribution entries are present in the Identity, Methodology, and Philosophy workbooks. Their links are recorded above. This confirms repository-level cross-reference coverage; it does not independently certify that every historical detail from the four separate WORK chats has been migrated.
 
 ## Record Rules
 
@@ -79,7 +79,7 @@ Publication ID, date, title, and published status are verified against the canon
 | PUB-0021 | 28 Aug 2026 | Why Knowledge Is a Strategic Advantage | Milestone record describes knowledge as a strategic advantage through preserved experience, better judgment, transfer, and capability. |
 | PUB-0022 | 02 Sep 2026 | Why Good Leaders Build Successors | Milestone record describes successor development, capability transfer, reduced dependency, and continuity across leadership transitions. |
 
-**Audit boundary:** This section establishes historical coverage and records the available evidence. It does not certify source-chat completeness for PUB-0001–PUB-0022. Existing detailed contribution entries for PUB-0023–PUB-0029 remain unchanged.
+**Audit boundary:** This section establishes historical coverage and records the available evidence. It does not certify source-chat completeness for PUB-0001–PUB-0022. Existing detailed contribution entries for PUB-0023–PUB-0031 remain unchanged.
 
 ---
 
