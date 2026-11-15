@@ -180,7 +180,7 @@ The historical titles are verified, but the original Methodology WORK-chat contr
 
 ---
 
-**Synchronization note:** Methodology contribution entries for PUB-0023 through PUB-0031 are cross-linked to the corresponding Publications, Identity, and Philosophy entries in the repository. This confirms repository-level cross-reference coverage; full historical completeness against all saved WORK-chat records remains unverified.
+**Synchronization note:** Methodology contribution entries for PUB-0023 through PUB-0032 are cross-linked to the corresponding Publications, Identity, and Philosophy entries in the repository. This confirms repository-level cross-reference coverage; full historical completeness against all saved WORK-chat records remains unverified.
 
 **SARGEN™ — Creation Must Evolve.**
 
