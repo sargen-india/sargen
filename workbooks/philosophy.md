@@ -209,3 +209,21 @@ The historical titles are verified. Where available, milestone descriptions prov
 - **What remains uncertain or unapproved:** This publication contribution does not establish a new constitutional rule or independently LOCKED philosophical principle. Later Phase-6 articles will develop related questions, including trust, human capability, responsibility and control, and sustainable governance.
 - **Cross-links:** [Publications](publications.md) — PUB-0031; [Identity](identity.md) — PUB-0031; [Methodology](methodology.md) — PUB-0031.
 - **Open questions or review notes:** Preserve the distinction between valuing human contribution and depending on an individual's continued presence. The article is the Phase-6 Gateway; do not pre-empt the distinct arguments reserved for subsequent articles.
+
+### PUB-0032 — Why Trust Grows One Decision at a Time
+
+- **Status:** FINAL / PUBLISHED contribution; philosophical interpretation remains a contribution record.
+- **Philosophical contribution title:** Trust as an Outcome of Decisions Over Time
+- **Phase / series:** Phase-6 — Human System; Bridge
+- **Publication date:** 15 Nov 2026
+- **Platform:** Medium
+- **Public link:** https://medium.com/@sargen.india/why-trust-grows-one-decision-at-a-time-4970db54e28a
+- **Central proposition or distinction:** Trust is not built through promises alone; it grows through the decisions people make and the consistency they demonstrate over time.
+- **Reasoning / supporting argument:** The approved story preview places decisions and demonstrated consistency at the centre of trust development. It distinguishes declared intention from what people experience through conduct over time.
+- **Core philosophical contribution:** Connects trust with the lived pattern of decisions rather than treating it solely as a statement, expectation, or personal sentiment. The contribution extends the Phase-6 Human System discussion without displacing the distinct argument of Article-31.
+- **Relationship to established SARGEN™ principles:** Relevant to stewardship, governance, accountability, continuity, and the human experience of institutional decisions. This publication contribution does not amend or create a LOCKED principle.
+- **Continuity implications:** Trust may be strengthened or weakened by the pattern of decisions people experience over time; the full article should be consulted before drawing more detailed institutional implications.
+- **Evolution or adaptation implications:** Consistency should not be confused with rigidly repeating past decisions. Detailed treatment of adaptation and judgment remains to be assessed from the full article.
+- **What remains uncertain or unapproved:** This interpretation is limited to the confirmed title and approved preview. It does not claim that consistency alone guarantees trust or that all decisions will be interpreted identically.
+- **Cross-links:** Publications — PUB-0032; Identity — PUB-0032; Methodology — PUB-0032.
+- **Open questions or review notes:** Full-text philosophical analysis pending. Preserve this as a contribution record, not a new constitutional rule or independently LOCKED principle.
