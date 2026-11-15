@@ -171,7 +171,7 @@ The historical titles are verified. Where available, milestone descriptions prov
 
 ---
 
-**Synchronization note:** Philosophical contribution entries for PUB-0023 through PUB-0031 are cross-linked to the corresponding Publications, Identity, and Methodology entries in the repository. Publication metadata remains governed by the canonical Publication Register and Publications workbook. These are contribution records, not automatic declarations of new LOCKED principles. Repository-level cross-reference coverage has been checked; full historical completeness against all saved WORK-chat records remains unverified.
+**Synchronization note:** Philosophical contribution entries for PUB-0023 through PUB-0032 are cross-linked to the corresponding Publications, Identity, and Methodology entries in the repository. Publication metadata remains governed by the canonical Publication Register and Publications workbook. These are contribution records, not automatic declarations of new LOCKED principles. Repository-level cross-reference coverage has been checked; full historical completeness against all saved WORK-chat records remains unverified.
 
 **SARGEN™ — Creation Must Evolve.**
 
