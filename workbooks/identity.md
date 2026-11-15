@@ -197,3 +197,19 @@ The historical titles are verified, but the original Identity WORK-chat contribu
 - **What this contribution does not claim:** It does not seek to make people interchangeable, capture every aspect of individual experience, or preserve every existing practice unchanged. It does not declare a new locked identity rule.
 - **Cross-links:** [Publications](publications.md) — PUB-0031; [Methodology](methodology.md) — PUB-0031; [Philosophy](philosophy.md) — PUB-0031.
 - **Open questions or review notes:** The article's approved subtitle is recorded in the Publications workbook. This is a publication contribution record, not a revision of the SARGEN™ brand identity.
+
+### PUB-0032 — Why Trust Grows One Decision at a Time
+
+- **Status:** FINAL / PUBLISHED contribution; identity interpretation remains a contribution record.
+- **Identity contribution title:** Trust Demonstrated Through Decisions
+- **Phase / series:** Phase-6 — Human System; Bridge
+- **Publication date:** 15 Nov 2026
+- **Platform:** Medium
+- **Public link:** https://medium.com/@sargen.india/why-trust-grows-one-decision-at-a-time-4970db54e28a
+- **Core identity associations:** Trust, responsible decision-making, consistency, human relationships, institutional confidence, governance.
+- **Distinctive identity claim or distinction:** Trust is not established by promises alone; it develops through decisions and the consistency people demonstrate over time.
+- **Relationship to established SARGEN™ identity:** Extends the Human System discussion from preserving human contribution and continuity to the quality of decisions through which people experience and assess one another. It connects trust with observable conduct without reducing trust to a slogan or treating it as an automatic outcome.
+- **Phase-6 role:** Serves as the Bridge after Article-31's Gateway, developing the human dimension of institutional life through the relationship between decisions, consistency, and trust.
+- **What this contribution does not claim:** This entry does not assert that consistency alone guarantees trust, that every decision will produce the same response, or that it establishes a new locked identity statement. Detailed interpretation remains subject to the full article.
+- **Cross-links:** [Publications](publications.md) — PUB-0032; [Methodology](methodology.md) — PUB-0032; [Philosophy](philosophy.md) — PUB-0032.
+- **Open questions or review notes:** Based on the confirmed title and approved story preview. Review the full published text before expanding the identity interpretation.
