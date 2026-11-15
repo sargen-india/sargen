@@ -983,3 +983,44 @@ Published
 Version:
 v1.0
 ---
+
+## Milestone 32
+
+Date:
+15 Nov 2026
+
+Event:
+Publication of PUB-0032 on Medium.
+
+Article Sequence:
+Article-32
+
+Title:
+Why Trust Grows One Decision at a Time
+
+Platform:
+Medium
+
+Link:
+https://medium.com/@sargen.india/why-trust-grows-one-decision-at-a-time-4970db54e28a
+
+Phase:
+Phase-6 — Human System
+
+Role in Series:
+Bridge
+
+Story Preview:
+Trust is not built through promises alone. It grows through the decisions people make and the consistency they demonstrate over time.
+
+Significance:
+This publication continues Phase-6 — Human System from the institutional-continuity foundation established by Article-31. It examines trust as something developed through decisions and demonstrated consistency over time, rather than through promises or declarations alone. The contribution connects everyday decision-making with how confidence is formed and sustained in human relationships and institutional life. This record does not declare a new LOCKED principle.
+
+Central distinction:
+Trust is not established by words alone; it grows through the decisions people make and the consistency they demonstrate over time.
+
+Status:
+Published
+Version:
+v1.0
+---
