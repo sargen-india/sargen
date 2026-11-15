@@ -222,3 +222,21 @@ The historical titles are verified, but the original Methodology WORK-chat contr
 - **Relationship to existing SARGEN™ methodology:** Extends institutional memory and continuity concerns into human roles, responsibility transfer, and the governance of accumulated learning.
 - **Cross-links:** [Publications](publications.md) — PUB-0031; [Identity](identity.md) — PUB-0031; [Philosophy](philosophy.md) — PUB-0031.
 - **Open questions or review notes:** Do not treat this contribution record as a new LOCKED methodology without separate approval.
+
+### PUB-0032 — Why Trust Grows One Decision at a Time
+
+- **Status:** FINAL / PUBLISHED contribution; methodological interpretation remains a contribution record.
+- **Methodological contribution title:** Understanding Trust Through Decisions and Consistency
+- **Phase / series:** Phase-6 — Human System; Bridge
+- **Publication date:** 15 Nov 2026
+- **Platform:** Medium
+- **Public link:** https://medium.com/@sargen.india/why-trust-grows-one-decision-at-a-time-4970db54e28a
+- **Question or problem examined:** How does trust develop through the decisions people make and the consistency they demonstrate over time?
+- **Analytical sequence / model:** Decisions → Repeated Experience → Observed Consistency → Developing Trust (a conceptual sequence inferred from the approved title and preview; not a formally adopted method).
+- **Key dimensions or decision points:** Decisions and conduct; consistency over time; the difference between promises and demonstrated behaviour; how people experience decisions.
+- **Practical application:** Use the article's central question as a prompt for examining whether decisions and actions consistently support the trust an individual or institution seeks to establish. Do not treat this contribution record as an approved assessment tool or procedure.
+- **Methodological objective:** Connect trust with observable decision-making over time rather than relying on declarations or intentions alone.
+- **Limitations / conditions of use:** This entry is based on the confirmed title and approved story preview. The full article must be reviewed before formalizing any analytical model, checklist, or procedure.
+- **Relationship to existing SARGEN™ methodology:** Continues the Human System discussion by relating human decisions and consistency to the development of trust; it does not replace existing governance or accountability methods.
+- **Cross-links:** [Publications](publications.md) — PUB-0032; [Identity](identity.md) — PUB-0032; [Philosophy](philosophy.md) — PUB-0032.
+- **Open questions or review notes:** Do not treat the conceptual sequence above as a new LOCKED methodology. Full-text analysis pending.
