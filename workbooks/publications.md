@@ -271,3 +271,25 @@ Publication ID, date, title, and published status are verified against the canon
 - **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0031.
 - **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0031.
 - **Notes / unresolved details:** Article-31 is the confirmed editorial sequence number; PUB-0031 is the permanent publication identifier. The Medium subtitle is recorded above; no separate story-preview wording is asserted here.
+
+### PUB-0032 — Why Trust Grows One Decision at a Time
+
+- **Publication ID:** PUB-0032
+- **Article sequence number:** Article-32
+- **Publication date:** 15 Nov 2026
+- **Platform:** Medium
+- **Phase / series:** Phase-6 — Human System
+- **Role in series:** Bridge
+- **Type / topic:** Article; trust, decisions, consistency, human relationships, institutional confidence
+- **Public link:** https://medium.com/@sargen.india/why-trust-grows-one-decision-at-a-time-4970db54e28a
+- **Story preview:** Trust is not built through promises alone. It grows through the decisions people make and the consistency they demonstrate over time.
+- **Medium topics:** Leadership; Trust; Decision Making; Organizational Culture; Governance
+- **Status:** FINAL / PUBLISHED
+- **Version:** v1.0
+- **Central distinction:** Trust is not built through promises alone; it grows through decisions and demonstrated consistency over time.
+- **Publication contribution summary:** Continues the Phase-6 Human System series by examining how trust develops through the decisions people make and the consistency they demonstrate. It connects trust with observable conduct over time rather than treating it as a claim, sentiment, or promise. This record captures the approved title, preview, and series position; detailed article analysis remains subject to review of the full published text.
+- **Relationship to Article-31:** Article-31 establishes the importance of preserving human contribution and institutional continuity beyond individual presence. Article-32 develops a distinct human-system question: how trust is formed through decisions over time.
+- **Related Identity entry:** [Identity workbook](identity.md) — PUB-0032.
+- **Related Methodology entry:** [Methodology workbook](methodology.md) — PUB-0032.
+- **Related Philosophy entry:** [Philosophy workbook](philosophy.md) — PUB-0032.
+- **Notes / unresolved details:** Article-32 is the confirmed editorial sequence number; PUB-0032 is the permanent publication identifier. Full-text contribution analysis is pending; no new LOCKED principle is declared by this record.
