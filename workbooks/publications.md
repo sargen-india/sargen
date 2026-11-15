@@ -33,7 +33,7 @@ The Publication Register remains the source for official publication metadata. T
 
 ## Cross-Workbook Reconciliation
 
-For PUB-0023 through PUB-0031, corresponding contribution entries are present in the Identity, Methodology, and Philosophy workbooks. Their links are recorded above. This confirms repository-level cross-reference coverage; it does not independently certify that every historical detail from the four separate WORK chats has been migrated.
+For PUB-0023 through PUB-0032, corresponding contribution entries are present in the Identity, Methodology, and Philosophy workbooks. Their links are recorded above. This confirms repository-level cross-reference coverage; it does not independently certify that every historical detail from the four separate WORK chats has been migrated.
 
 ## Record Rules
 
